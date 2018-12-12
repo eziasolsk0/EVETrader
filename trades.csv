@@ -1537,8 +1537,8 @@
 1535,Spiced Wine,https://evemarketer.com/types/42,113,22921049,http://eve-gatecheck.space/eve/#Maut:Ruerrotta:shortest,58866,117731,195,0.5,1514,1709,Placid,Maut,60009427,Placid,Ruerrotta,60011326
 1536,Spiced Wine,https://evemarketer.com/types/42,113,22921049,http://eve-gatecheck.space/eve/#Maut:Esesier:shortest,58866,117731,195,0.5,1514,1709,Placid,Maut,60009427,Placid,Esesier,60011353
 1537,Spiced Wine,https://evemarketer.com/types/42,113,22921049,http://eve-gatecheck.space/eve/#Maut:Evaulon:shortest,58866,117731,195,0.5,1514,1709,Placid,Maut,60009427,Placid,Evaulon,60011356
-1538,Pyerite,https://evemarketer.com/types/35,200,22917461,http://eve-gatecheck.space/eve/#Klingt:Myyhera:shortest,169759,16975897,2,0.01,2,4,Molden Heath,Klingt,60004885,The Bleak Lands,Myyhera,60015135
-1539,Pyerite,https://evemarketer.com/types/35,200,22917461,http://eve-gatecheck.space/eve/#Klingt:Vittenyn:shortest,169759,16975897,2,0.01,2,4,Molden Heath,Klingt,60004885,Sinq Laison,Vittenyn,60011848
+1538,Pyerite,https://evemarketer.com/types/35,200,22917461,http://eve-gatecheck.space/eve/#Klingt:Vittenyn:shortest,169759,16975897,2,0.01,2,4,Molden Heath,Klingt,60004885,Sinq Laison,Vittenyn,60011848
+1539,Pyerite,https://evemarketer.com/types/35,200,22917461,http://eve-gatecheck.space/eve/#Klingt:Myyhera:shortest,169759,16975897,2,0.01,2,4,Molden Heath,Klingt,60004885,The Bleak Lands,Myyhera,60015135
 1540,Tritanium,https://evemarketer.com/types/34,125,22883000,http://eve-gatecheck.space/eve/#Ienakkamon:Dihra:shortest,549903,54990297,1,0.01,4,5,Black Rise,Ienakkamon,60015110,Devoid,Dihra,60006523
 1541,Oxygen,https://evemarketer.com/types/3683,131,22871967,http://eve-gatecheck.space/eve/#Villasen:Niyabainen:shortest,93891,247080,93,0.38,300,393,Black Rise,Villasen,60015108,The Forge,Niyabainen,1029231415088
 1542,Pyerite,https://evemarketer.com/types/35,134,22851301,http://eve-gatecheck.space/eve/#Villasen:Kakakela:shortest,1474145,147414486,1,0.01,3,4,Black Rise,Villasen,60015108,Lonetrek,Kakakela,60003895
@@ -4173,8 +4173,8 @@
 4171,Tritanium,https://evemarketer.com/types/34,125,6860949,http://eve-gatecheck.space/eve/#Podion:Zemalu:shortest,110291,11029066,1,0.01,4,5,Derelik,Podion,60013867,Derelik,Zemalu,60014140
 4172,Holoreels,https://evemarketer.com/types/3647,131,6856921,http://eve-gatecheck.space/eve/#Trer:Blameston:shortest,48085,96170,72,0.5,230,301,Heimatar,Trer,60001843,Everyshore,Blameston,60010621
 4173,Isogen,https://evemarketer.com/types/37,146,6853938,http://eve-gatecheck.space/eve/#Egbinger:Esescama:shortest,15002,1500196,5,0.01,11,16,Molden Heath,Egbinger,60012424,Devoid,Esescama,60006526
-4174,Pyerite,https://evemarketer.com/types/35,134,6851003,http://eve-gatecheck.space/eve/#Frulegur:Myyhera:shortest,190306,19030562,1,0.01,3,4,Metropolis,Frulegur,60014830,The Bleak Lands,Myyhera,60015135
-4175,Pyerite,https://evemarketer.com/types/35,134,6851003,http://eve-gatecheck.space/eve/#Frulegur:Vittenyn:shortest,190306,19030562,1,0.01,3,4,Metropolis,Frulegur,60014830,Sinq Laison,Vittenyn,60011848
+4174,Pyerite,https://evemarketer.com/types/35,134,6851003,http://eve-gatecheck.space/eve/#Frulegur:Vittenyn:shortest,190306,19030562,1,0.01,3,4,Metropolis,Frulegur,60014830,Sinq Laison,Vittenyn,60011848
+4175,Pyerite,https://evemarketer.com/types/35,134,6851003,http://eve-gatecheck.space/eve/#Frulegur:Myyhera:shortest,190306,19030562,1,0.01,3,4,Metropolis,Frulegur,60014830,The Bleak Lands,Myyhera,60015135
 4176,Tritanium,https://evemarketer.com/types/34,167,6850688,http://eve-gatecheck.space/eve/#Atlar:Intaki:shortest,41520,4151932,2,0.01,3,5,Molden Heath,Atlar,60006502,Placid,Intaki,60009667
 4177,Tritanium,https://evemarketer.com/types/34,167,6850688,http://eve-gatecheck.space/eve/#Hrokkur:Intaki:shortest,41520,4151932,2,0.01,3,5,Molden Heath,Hrokkur,60004585,Placid,Intaki,60009667
 4178,Tritanium,https://evemarketer.com/types/34,167,6850688,http://eve-gatecheck.space/eve/#Skarkon:Intaki:shortest,41520,4151932,2,0.01,3,5,Molden Heath,Skarkon,60004651,Placid,Intaki,60009667
@@ -4268,33 +4268,33 @@
 4266,Electronic Parts,https://evemarketer.com/types/3687,127,6755564,http://eve-gatecheck.space/eve/#Gonditsa:Kourmonen:shortest,35672,35672,190,1.0,705,895,Genesis,Gonditsa,60011257,The Bleak Lands,Kourmonen,60002200
 4267,Electronic Parts,https://evemarketer.com/types/3687,127,6755564,http://eve-gatecheck.space/eve/#Shalne:Kourmonen:shortest,35672,35672,190,1.0,705,895,Genesis,Shalne,60011251,The Bleak Lands,Kourmonen,60002200
 4268,Electronic Parts,https://evemarketer.com/types/3687,127,6755564,http://eve-gatecheck.space/eve/#Olin:Kourmonen:shortest,35672,35672,190,1.0,705,895,Genesis,Olin,60011254,The Bleak Lands,Kourmonen,60002200
-4269,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Akila:Kourmonen:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,The Bleak Lands,Kourmonen,60002200
-4270,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ragnarg:Kheram:shortest,35672,35672,190,1.0,705,895,Metropolis,Ragnarg,60002542,Domain,Kheram,60002113
-4271,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Aulbres:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Aulbres,60011242,Domain,Kheram,60002113
-4272,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Vestouve:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Vestouve,60011245,Domain,Kheram,60002113
-4273,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ausmaert:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Ausmaert,60011248,Domain,Kheram,60002113
-4274,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Espigoure:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Espigoure,60011239,Domain,Kheram,60002113
-4275,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Saphthar:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Saphthar,60011227,Domain,Kheram,60002113
-4276,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Itrin:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Itrin,60011233,Domain,Kheram,60002113
-4277,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Korridi:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Korridi,60014626,Domain,Kheram,60002113
-4278,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Gonditsa:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Gonditsa,60011257,Domain,Kheram,60002113
-4279,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Shalne:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Shalne,60011251,Domain,Kheram,60002113
-4280,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Olin:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Olin,60011254,Domain,Kheram,60002113
-4281,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ragnarg:Frerstorn:shortest,35672,35672,190,1.0,705,895,Metropolis,Ragnarg,60002542,Metropolis,Frerstorn,60002125
-4282,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Aulbres:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Aulbres,60011242,Metropolis,Frerstorn,60002125
-4283,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Vestouve:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Vestouve,60011245,Metropolis,Frerstorn,60002125
-4284,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ausmaert:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Ausmaert,60011248,Metropolis,Frerstorn,60002125
-4285,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Espigoure:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Espigoure,60011239,Metropolis,Frerstorn,60002125
-4286,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Saphthar:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Saphthar,60011227,Metropolis,Frerstorn,60002125
-4287,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Itrin:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Itrin,60011233,Metropolis,Frerstorn,60002125
-4288,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Korridi:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Korridi,60014626,Metropolis,Frerstorn,60002125
-4289,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Gonditsa:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Gonditsa,60011257,Metropolis,Frerstorn,60002125
-4290,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Shalne:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Shalne,60011251,Metropolis,Frerstorn,60002125
-4291,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Olin:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Olin,60011254,Metropolis,Frerstorn,60002125
-4292,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Antiainen:Kourmonen:shortest,35672,35672,190,1.0,706,895,Lonetrek,Antiainen,60011149,The Bleak Lands,Kourmonen,60002200
-4293,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Sahda:Kourmonen:shortest,35672,35672,190,1.0,706,895,Domain,Sahda,60011197,The Bleak Lands,Kourmonen,60002200
-4294,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Akila:Kheram:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,Domain,Kheram,60002113
-4295,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Akila:Frerstorn:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,Metropolis,Frerstorn,60002125
+4269,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ragnarg:Kheram:shortest,35672,35672,190,1.0,705,895,Metropolis,Ragnarg,60002542,Domain,Kheram,60002113
+4270,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Aulbres:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Aulbres,60011242,Domain,Kheram,60002113
+4271,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Vestouve:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Vestouve,60011245,Domain,Kheram,60002113
+4272,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ausmaert:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Ausmaert,60011248,Domain,Kheram,60002113
+4273,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Espigoure:Kheram:shortest,35672,35672,190,1.0,705,895,Placid,Espigoure,60011239,Domain,Kheram,60002113
+4274,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Saphthar:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Saphthar,60011227,Domain,Kheram,60002113
+4275,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Itrin:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Itrin,60011233,Domain,Kheram,60002113
+4276,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Korridi:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Korridi,60014626,Domain,Kheram,60002113
+4277,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Gonditsa:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Gonditsa,60011257,Domain,Kheram,60002113
+4278,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Shalne:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Shalne,60011251,Domain,Kheram,60002113
+4279,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Olin:Kheram:shortest,35672,35672,190,1.0,705,895,Genesis,Olin,60011254,Domain,Kheram,60002113
+4280,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ragnarg:Frerstorn:shortest,35672,35672,190,1.0,705,895,Metropolis,Ragnarg,60002542,Metropolis,Frerstorn,60002125
+4281,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Aulbres:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Aulbres,60011242,Metropolis,Frerstorn,60002125
+4282,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Vestouve:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Vestouve,60011245,Metropolis,Frerstorn,60002125
+4283,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Ausmaert:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Ausmaert,60011248,Metropolis,Frerstorn,60002125
+4284,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Espigoure:Frerstorn:shortest,35672,35672,190,1.0,705,895,Placid,Espigoure,60011239,Metropolis,Frerstorn,60002125
+4285,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Saphthar:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Saphthar,60011227,Metropolis,Frerstorn,60002125
+4286,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Itrin:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Itrin,60011233,Metropolis,Frerstorn,60002125
+4287,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Korridi:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Korridi,60014626,Metropolis,Frerstorn,60002125
+4288,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Gonditsa:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Gonditsa,60011257,Metropolis,Frerstorn,60002125
+4289,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Shalne:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Shalne,60011251,Metropolis,Frerstorn,60002125
+4290,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Olin:Frerstorn:shortest,35672,35672,190,1.0,705,895,Genesis,Olin,60011254,Metropolis,Frerstorn,60002125
+4291,Electronic Parts,https://evemarketer.com/types/3687,127,6755207,http://eve-gatecheck.space/eve/#Akila:Kourmonen:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,The Bleak Lands,Kourmonen,60002200
+4292,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Akila:Kheram:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,Domain,Kheram,60002113
+4293,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Akila:Frerstorn:shortest,35672,35672,190,1.0,706,895,Domain,Akila,60011191,Metropolis,Frerstorn,60002125
+4294,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Antiainen:Kourmonen:shortest,35672,35672,190,1.0,706,895,Lonetrek,Antiainen,60011149,The Bleak Lands,Kourmonen,60002200
+4295,Electronic Parts,https://evemarketer.com/types/3687,127,6754850,http://eve-gatecheck.space/eve/#Sahda:Kourmonen:shortest,35672,35672,190,1.0,706,895,Domain,Sahda,60011197,The Bleak Lands,Kourmonen,60002200
 4296,Fierce Firestorm Filament,https://evemarketer.com/types/47897,138,6754536,http://eve-gatecheck.space/eve/#Jita:Gelhan:shortest,3,25,270182,0.1,729819,1000000,The Forge,Jita,60003760,Derelik,Gelhan,60012142
 4297,Electronic Parts,https://evemarketer.com/types/3687,127,6754494,http://eve-gatecheck.space/eve/#Antiainen:Kheram:shortest,35672,35672,190,1.0,706,895,Lonetrek,Antiainen,60011149,Domain,Kheram,60002113
 4298,Electronic Parts,https://evemarketer.com/types/3687,127,6754494,http://eve-gatecheck.space/eve/#Sahda:Kheram:shortest,35672,35672,190,1.0,706,895,Domain,Sahda,60011197,Domain,Kheram,60002113
@@ -4616,8 +4616,8 @@
 4614,Electronic Parts,https://evemarketer.com/types/3687,115,6422018,http://eve-gatecheck.space/eve/#Jufvitte:Frulegur:shortest,58851,58851,110,1.0,783,893,Verge Vendor,Jufvitte,60011212,Metropolis,Frulegur,60001033
 4615,Fiery Kernite,https://evemarketer.com/types/17453,136,6421389,http://eve-gatecheck.space/eve/#Mishi:Alentene:shortest,248410,207008,32,1.2,89,121,Aridia,Mishi,60012397,Verge Vendor,Alentene,1021945506507
 4616,Pyerite,https://evemarketer.com/types/35,134,6421310,http://eve-gatecheck.space/eve/#Podion:Aphend:shortest,181020,18101944,1,0.01,3,4,Derelik,Podion,60013867,Kador,Aphend,60008506
-4617,Fiery Kernite,https://evemarketer.com/types/17453,135,6417248,http://eve-gatecheck.space/eve/#Mishi:Hatori:shortest,248410,207008,31,1.2,89,120,Aridia,Mishi,60012397,The Bleak Lands,Hatori,60000058
-4618,Fiery Kernite,https://evemarketer.com/types/17453,135,6417248,http://eve-gatecheck.space/eve/#Mishi:Osoggur:shortest,248410,207008,31,1.2,89,120,Aridia,Mishi,60012397,Heimatar,Osoggur,1028878453064
+4617,Fiery Kernite,https://evemarketer.com/types/17453,135,6417248,http://eve-gatecheck.space/eve/#Mishi:Osoggur:shortest,248410,207008,31,1.2,89,120,Aridia,Mishi,60012397,Heimatar,Osoggur,1028878453064
+4618,Fiery Kernite,https://evemarketer.com/types/17453,135,6417248,http://eve-gatecheck.space/eve/#Mishi:Hatori:shortest,248410,207008,31,1.2,89,120,Aridia,Mishi,60012397,The Bleak Lands,Hatori,60000058
 4619,Tritanium,https://evemarketer.com/types/34,134,6416609,http://eve-gatecheck.space/eve/#Skarkon:Amarr:shortest,67021,6702046,1,0.01,3,4,Molden Heath,Skarkon,60004651,Domain,Amarr,60008494
 4620,Liquid Ozone,https://evemarketer.com/types/16273,127,6410711,http://eve-gatecheck.space/eve/#Villasen:Bika:shortest,100000,250000,26,0.4,95,120,Black Rise,Villasen,60015108,Domain,Bika,60008932
 4621,Antibiotics,https://evemarketer.com/types/43,123,6409556,http://eve-gatecheck.space/eve/#Maila:Haimeh:shortest,18311,91552,71,0.2,306,376,The Forge,Maila,60001801,Aridia,Haimeh,60000139
@@ -4638,8 +4638,8 @@
 4636,Siren I,https://evemarketer.com/types/40346,111,6400000,http://eve-gatecheck.space/eve/#Osaa:Amarr:shortest,48000,16,400000,3000.0,4000000,4400000,The Forge,Osaa,60000967,Domain,Amarr,60008494
 4637,Antibiotics,https://evemarketer.com/types/43,123,6397691,http://eve-gatecheck.space/eve/#Maila:Lumegen:shortest,18311,91552,70,0.2,306,376,The Forge,Maila,60001801,Metropolis,Lumegen,60000097
 4638,Strontium Clathrates,https://evemarketer.com/types/16275,135,6396396,http://eve-gatecheck.space/eve/#Anin:Dodixie:shortest,50457,16819,381,3.0,1100,1480,Lonetrek,Anin,60003961,Sinq Laison,Dodixie,60011866
-4639,Pyerite,https://evemarketer.com/types/35,134,6395547,http://eve-gatecheck.space/eve/#Agil:Myyhera:shortest,182730,18272989,1,0.01,3,4,Khanid,Agil,60012412,The Bleak Lands,Myyhera,60015135
-4640,Pyerite,https://evemarketer.com/types/35,134,6395547,http://eve-gatecheck.space/eve/#Agil:Vittenyn:shortest,182730,18272989,1,0.01,3,4,Khanid,Agil,60012412,Sinq Laison,Vittenyn,60011848
+4639,Pyerite,https://evemarketer.com/types/35,134,6395547,http://eve-gatecheck.space/eve/#Agil:Vittenyn:shortest,182730,18272989,1,0.01,3,4,Khanid,Agil,60012412,Sinq Laison,Vittenyn,60011848
+4640,Pyerite,https://evemarketer.com/types/35,134,6395547,http://eve-gatecheck.space/eve/#Agil:Myyhera:shortest,182730,18272989,1,0.01,3,4,Khanid,Agil,60012412,The Bleak Lands,Myyhera,60015135
 4641,Oxygen,https://evemarketer.com/types/3683,145,6395322,http://eve-gatecheck.space/eve/#Hodrold:Rayl:shortest,22091,58134,111,0.38,250,361,Metropolis,Hodrold,60001045,Domain,Rayl,60006262
 4642,Oxygen,https://evemarketer.com/types/3683,145,6395322,http://eve-gatecheck.space/eve/#Konora:Rayl:shortest,22091,58134,111,0.38,250,361,Metropolis,Konora,60001039,Domain,Rayl,60006262
 4643,Hawk,https://evemarketer.com/types/11379,123,6395162,http://eve-gatecheck.space/eve/#Kehjari:Amarr:shortest,2500,1,6395162,2500.0,28000000,34395162,Black Rise,Kehjari,60015107,Domain,Amarr,60008494
@@ -4846,12 +4846,12 @@
 4844,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Ansasos:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Kador,Ansasos,60006763
 4845,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Bordan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Kador,Bordan,60006766
 4846,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Bordan:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Kador,Bordan,60006766
-4847,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Kourmonen:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,The Bleak Lands,Kourmonen,60002200
-4848,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Kourmonen:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,The Bleak Lands,Kourmonen,60002200
-4849,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Nalnifan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Aridia,Nalnifan,60001123
-4850,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Nalnifan:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Aridia,Nalnifan,60001123
-4851,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Tamo:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Lonetrek,Tamo,60002344
-4852,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Tamo:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Lonetrek,Tamo,60002344
+4847,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Nalnifan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Aridia,Nalnifan,60001123
+4848,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Nalnifan:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Aridia,Nalnifan,60001123
+4849,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Tamo:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Lonetrek,Tamo,60002344
+4850,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Tamo:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Lonetrek,Tamo,60002344
+4851,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Kourmonen:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,The Bleak Lands,Kourmonen,60002200
+4852,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Thakala:Kourmonen:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,The Bleak Lands,Kourmonen,60002200
 4853,Electronic Parts,https://evemarketer.com/types/3687,127,6144255,http://eve-gatecheck.space/eve/#Orien:Vivanier:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Placid,Vivanier,60009124
 4854,Electronic Parts,https://evemarketer.com/types/3687,127,6144255,http://eve-gatecheck.space/eve/#Thakala:Vivanier:shortest,32445,32445,190,1.0,705,895,Devoid,Thakala,60002506,Placid,Vivanier,60009124
 4855,Electronic Parts,https://evemarketer.com/types/3687,127,6144110,http://eve-gatecheck.space/eve/#Orien:Kheram:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Domain,Kheram,60002113
@@ -5174,9 +5174,9 @@
 5172,Tritanium,https://evemarketer.com/types/34,134,5920394,http://eve-gatecheck.space/eve/#Skarkon:Frarn:shortest,67021,6702046,1,0.01,3,4,Molden Heath,Skarkon,60004651,Heimatar,Frarn,1028439987377
 5173,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Ansasos:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Kador,Ansasos,60006763
 5174,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Bordan:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Kador,Bordan,60006766
-5175,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Kourmonen:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,The Bleak Lands,Kourmonen,60002200
-5176,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Nalnifan:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Aridia,Nalnifan,60001123
-5177,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Tamo:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Lonetrek,Tamo,60002344
+5175,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Nalnifan:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Aridia,Nalnifan,60001123
+5176,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Tamo:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Lonetrek,Tamo,60002344
+5177,Electronic Parts,https://evemarketer.com/types/3687,126,5919915,http://eve-gatecheck.space/eve/#Amamake:Kourmonen:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,The Bleak Lands,Kourmonen,60002200
 5178,Electronic Parts,https://evemarketer.com/types/3687,126,5919736,http://eve-gatecheck.space/eve/#Amamake:Vivanier:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Placid,Vivanier,60009124
 5179,Electronic Parts,https://evemarketer.com/types/3687,126,5919591,http://eve-gatecheck.space/eve/#Amamake:Kheram:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Domain,Kheram,60002113
 5180,Electronic Parts,https://evemarketer.com/types/3687,126,5919591,http://eve-gatecheck.space/eve/#Amamake:Frerstorn:shortest,32445,32445,183,1.0,712,895,Heimatar,Amamake,60002590,Metropolis,Frerstorn,60002125
@@ -5589,8 +5589,8 @@
 5587,Tritanium,https://evemarketer.com/types/34,125,5536711,http://eve-gatecheck.space/eve/#Aubenall:Ardene:shortest,276836,27683551,1,0.01,4,5,Placid,Aubenall,60009748,Sinq Laison,Ardene,60014743
 5588,Tritanium,https://evemarketer.com/types/34,125,5536711,http://eve-gatecheck.space/eve/#Hophib:Ardene:shortest,276836,27683551,1,0.01,4,5,Aridia,Hophib,60007948,Sinq Laison,Ardene,60014743
 5589,Hydrochloric Acid,https://evemarketer.com/types/3773,114,5535895,http://eve-gatecheck.space/eve/#Airkio:Enderailen:shortest,34329,68658,81,0.5,600,681,Lonetrek,Airkio,60000811,The Citadel,Enderailen,60001819
-5590,Pyerite,https://evemarketer.com/types/35,200,5535469,http://eve-gatecheck.space/eve/#Odebeinn:Myyhera:shortest,41004,4100347,2,0.01,2,4,Metropolis,Odebeinn,60001030,The Bleak Lands,Myyhera,60015135
-5591,Pyerite,https://evemarketer.com/types/35,200,5535469,http://eve-gatecheck.space/eve/#Odebeinn:Vittenyn:shortest,41004,4100347,2,0.01,2,4,Metropolis,Odebeinn,60001030,Sinq Laison,Vittenyn,60011848
+5590,Pyerite,https://evemarketer.com/types/35,200,5535469,http://eve-gatecheck.space/eve/#Odebeinn:Vittenyn:shortest,41004,4100347,2,0.01,2,4,Metropolis,Odebeinn,60001030,Sinq Laison,Vittenyn,60011848
+5591,Pyerite,https://evemarketer.com/types/35,200,5535469,http://eve-gatecheck.space/eve/#Odebeinn:Myyhera:shortest,41004,4100347,2,0.01,2,4,Metropolis,Odebeinn,60001030,The Bleak Lands,Myyhera,60015135
 5592,Heavy Water,https://evemarketer.com/types/16272,160,5535412,http://eve-gatecheck.space/eve/#Ondree:Jita:shortest,12528,31319,177,0.4,299,476,Solitude,Ondree,60011329,The Forge,Jita,60003760
 5593,Silicon,https://evemarketer.com/types/9828,117,5535343,http://eve-gatecheck.space/eve/#Iitanmadan:New Caldari:shortest,16801,44212,126,0.38,750,876,Lonetrek,Iitanmadan,60001732,The Forge,New Caldari,1022719559274
 5594,Republic Fleet EMP S,https://evemarketer.com/types/21898,111,5533817,http://eve-gatecheck.space/eve/#Nisuwa:Jita:shortest,254,101465,55,0.0025,532,586,Black Rise,Nisuwa,60015073,The Forge,Jita,60003760
