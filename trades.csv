@@ -268,7 +268,7 @@
 266,Pyerite,https://evemarketer.com/types/35,150,91257917,http://eve-gatecheck.space/eve/#Egbinger:Dodixie:shortest,951130,95112998,1,0.01,2,3,Molden Heath,Egbinger,60000085,Sinq Laison,Dodixie,60011866
 267,Pyerite,https://evemarketer.com/types/35,200,91098332,http://eve-gatecheck.space/eve/#Egbinger:Alra:shortest,819546,81954565,2,0.01,2,4,Molden Heath,Egbinger,60000085,Tash-Murkon,Alra,1022436757022
 268,Liquid Ozone,https://evemarketer.com/types/16273,182,90911712,http://eve-gatecheck.space/eve/#Assah:Alra:shortest,699187,1747966,53,0.4,65,118,Derelik,Assah,60006490,Tash-Murkon,Alra,1022436757022
-269,Liquid Ozone,https://evemarketer.com/types/16273,160,90297386,http://eve-gatecheck.space/eve/#Konora:Getrenjesa:shortest,1504224,3760560,25,0.4,42,67,Metropolis,Konora,60001039,Aridia,Getrenjesa,60001126
+269,Liquid Ozone,https://evemarketer.com/types/16273,160,90372597,http://eve-gatecheck.space/eve/#Konora:Getrenjesa:shortest,1504224,3760560,25,0.4,42,67,Metropolis,Konora,60001039,Aridia,Getrenjesa,60001126
 270,Skiff,https://evemarketer.com/types/22546,112,90000012,http://eve-gatecheck.space/eve/#Podion:Dodixie:shortest,15000,4,22500003,3750.0,202500000,225000003,Derelik,Podion,60013867,Sinq Laison,Dodixie,60011866
 271,Liquid Ozone,https://evemarketer.com/types/16273,188,89894177,http://eve-gatecheck.space/eve/#Podion:Perimeter:shortest,721389,1803471,50,0.4,56,105,Derelik,Podion,60013867,The Forge,Perimeter,1028858195912
 272,Liquid Ozone,https://evemarketer.com/types/16273,136,89663102,http://eve-gatecheck.space/eve/#Konora:Amarr:shortest,1280000,3200000,29,0.4,78,106,Metropolis,Konora,60001039,Domain,Amarr,60008494
@@ -855,8 +855,8 @@
 853,Tritanium,https://evemarketer.com/types/34,125,35043231,http://eve-gatecheck.space/eve/#Podion:Oursulaert:shortest,302510,30250979,2,0.01,4,5,Derelik,Podion,60013867,Essence,Oursulaert,60011740
 854,Liquid Ozone,https://evemarketer.com/types/16273,156,35010000,http://eve-gatecheck.space/eve/#Assah:Gensela:shortest,400000,1000000,36,0.4,65,101,Derelik,Assah,60006490,Kador,Gensela,1028807267812
 855,Liquid Ozone,https://evemarketer.com/types/16273,156,35010000,http://eve-gatecheck.space/eve/#Villasen:Gensela:shortest,400000,1000000,36,0.4,65,101,Black Rise,Villasen,60015108,Kador,Gensela,1028807267812
-856,Liquid Ozone,https://evemarketer.com/types/16273,127,34776903,http://eve-gatecheck.space/eve/#Villasen:Ashab:shortest,545676,1364189,26,0.4,95,120,Black Rise,Villasen,60015108,Domain,Ashab,1023968078820
-857,Liquid Ozone,https://evemarketer.com/types/16273,120,34724224,http://eve-gatecheck.space/eve/#Podion:Getrenjesa:shortest,1278378,3195944,11,0.4,56,67,Derelik,Podion,60013867,Aridia,Getrenjesa,60001126
+856,Liquid Ozone,https://evemarketer.com/types/16273,120,34788143,http://eve-gatecheck.space/eve/#Podion:Getrenjesa:shortest,1278378,3195944,11,0.4,56,67,Derelik,Podion,60013867,Aridia,Getrenjesa,60001126
+857,Liquid Ozone,https://evemarketer.com/types/16273,127,34776903,http://eve-gatecheck.space/eve/#Villasen:Ashab:shortest,545676,1364189,26,0.4,95,120,Black Rise,Villasen,60015108,Domain,Ashab,1023968078820
 858,Capital Armor Plates,https://evemarketer.com/types/21017,113,34720937,http://eve-gatecheck.space/eve/#Odebeinn:Jita:shortest,670000,67,518223,10000.0,4000000,4518223,Metropolis,Odebeinn,60001030,The Forge,Jita,60003760
 859,Strontium Clathrates,https://evemarketer.com/types/16275,191,34643363,http://eve-gatecheck.space/eve/#Odebeinn:Nakugard:shortest,160347,53449,649,3.0,718,1366,Metropolis,Odebeinn,60001030,Metropolis,Nakugard,60004549
 860,Pyerite,https://evemarketer.com/types/35,134,34635124,http://eve-gatecheck.space/eve/#Egbinger:Zemalu:shortest,261350,26134952,2,0.01,3,4,Molden Heath,Egbinger,60000085,Derelik,Zemalu,60014140
@@ -4654,9 +4654,9 @@
 4652,Pyerite,https://evemarketer.com/types/35,200,6148127,http://eve-gatecheck.space/eve/#Odebeinn:Alentene:shortest,53462,5346197,2,0.01,2,4,Metropolis,Odebeinn,60001030,Verge Vendor,Alentene,60010873
 4653,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Ansasos:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Kador,Ansasos,60006763
 4654,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Bordan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Kador,Bordan,60006766
-4655,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Nalnifan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Aridia,Nalnifan,60001123
-4656,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Tamo:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Lonetrek,Tamo,60002344
-4657,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Kourmonen:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,The Bleak Lands,Kourmonen,60002200
+4655,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Tamo:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Lonetrek,Tamo,60002344
+4656,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Kourmonen:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,The Bleak Lands,Kourmonen,60002200
+4657,Electronic Parts,https://evemarketer.com/types/3687,127,6144435,http://eve-gatecheck.space/eve/#Orien:Nalnifan:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Aridia,Nalnifan,60001123
 4658,Electronic Parts,https://evemarketer.com/types/3687,127,6144272,http://eve-gatecheck.space/eve/#Orien:Allebin:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Essence,Allebin,60002227
 4659,Electronic Parts,https://evemarketer.com/types/3687,127,6144255,http://eve-gatecheck.space/eve/#Orien:Vivanier:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Placid,Vivanier,60009124
 4660,Electronic Parts,https://evemarketer.com/types/3687,127,6144110,http://eve-gatecheck.space/eve/#Orien:Frerstorn:shortest,32445,32445,190,1.0,705,895,Molden Heath,Orien,60002683,Metropolis,Frerstorn,60002134
@@ -4869,9 +4869,9 @@
 4867,Gnosis,https://evemarketer.com/types/3756,114,5957810,http://eve-gatecheck.space/eve/#Egbinger:Jita:shortest,30000,2,2978905,15000.0,21500000,24478905,Molden Heath,Egbinger,60000085,The Forge,Jita,60003760
 4868,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Ansasos:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Kador,Ansasos,60006763
 4869,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Bordan:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Kador,Bordan,60006766
-4870,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Nalnifan:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Aridia,Nalnifan,60001123
-4871,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Tamo:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Lonetrek,Tamo,60002344
-4872,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Kourmonen:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,The Bleak Lands,Kourmonen,60002200
+4870,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Tamo:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Lonetrek,Tamo,60002344
+4871,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Kourmonen:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,The Bleak Lands,Kourmonen,60002200
+4872,Electronic Parts,https://evemarketer.com/types/3687,126,5955388,http://eve-gatecheck.space/eve/#Amamake:Nalnifan:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Aridia,Nalnifan,60001123
 4873,Antibiotics,https://evemarketer.com/types/43,117,5955308,http://eve-gatecheck.space/eve/#Maila:Oppold:shortest,23900,119499,50,0.2,307,357,The Forge,Maila,60001801,Metropolis,Oppold,60004702
 4874,Electronic Parts,https://evemarketer.com/types/3687,126,5955226,http://eve-gatecheck.space/eve/#Amamake:Allebin:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Essence,Allebin,60002227
 4875,Electronic Parts,https://evemarketer.com/types/3687,126,5955209,http://eve-gatecheck.space/eve/#Amamake:Vivanier:shortest,32445,32445,184,1.0,711,895,Heimatar,Amamake,60002590,Placid,Vivanier,60009124
@@ -5173,9 +5173,9 @@
 5171,Antibiotics,https://evemarketer.com/types/43,120,5707270,http://eve-gatecheck.space/eve/#Otosela:Hatori:shortest,18898,94486,61,0.2,306,366,The Forge,Otosela,60001798,The Bleak Lands,Hatori,60000058
 5172,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Ansasos:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Kador,Ansasos,60006763
 5173,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Bordan:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Kador,Bordan,60006766
-5174,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Nalnifan:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Aridia,Nalnifan,60001123
-5175,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Tamo:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Lonetrek,Tamo,60002344
-5176,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Kourmonen:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,The Bleak Lands,Kourmonen,60002200
+5174,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Tamo:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Lonetrek,Tamo,60002344
+5175,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Kourmonen:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,The Bleak Lands,Kourmonen,60002200
+5176,Electronic Parts,https://evemarketer.com/types/3687,125,5707076,http://eve-gatecheck.space/eve/#Imih:Nalnifan:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Aridia,Nalnifan,60001123
 5177,Electronic Parts,https://evemarketer.com/types/3687,113,5706966,http://eve-gatecheck.space/eve/#Ellmay:Baviasi:shortest,60851,60851,94,1.0,736,830,Verge Vendor,Ellmay,60011206,Tash-Murkon,Baviasi,60002185
 5178,Electronic Parts,https://evemarketer.com/types/3687,125,5706914,http://eve-gatecheck.space/eve/#Imih:Allebin:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Essence,Allebin,60002227
 5179,Electronic Parts,https://evemarketer.com/types/3687,125,5706897,http://eve-gatecheck.space/eve/#Imih:Vivanier:shortest,32445,32445,176,1.0,719,895,Kor-Azor,Imih,60002572,Placid,Vivanier,60009124
@@ -5228,21 +5228,21 @@
 5226,Tritanium,https://evemarketer.com/types/34,134,5669027,http://eve-gatecheck.space/eve/#Sakht:Suroken:shortest,56691,5669027,1,0.01,3,4,Aridia,Sakht,60013159,The Citadel,Suroken,60004126
 5227,Tritanium,https://evemarketer.com/types/34,134,5669027,http://eve-gatecheck.space/eve/#Sakht:Vouskiaho:shortest,56691,5669027,1,0.01,3,4,Aridia,Sakht,60013159,The Forge,Vouskiaho,60013144
 5228,Liquid Ozone,https://evemarketer.com/types/16273,137,5667593,http://eve-gatecheck.space/eve/#Odebeinn:Tash-Murkon Prime:shortest,76562,191404,30,0.4,80,109,Metropolis,Odebeinn,60001030,Tash-Murkon,Tash-Murkon Prime,60008764
-5229,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Kamih:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Aridia,Kamih,60006118
-5230,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Kamih:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Aridia,Kamih,60006118
-5231,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Aridia,Kamih,60006118
-5232,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Aridia,Kamih,60006118
-5233,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Aridia,Kamih,60006118
-5234,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Aldilur:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Metropolis,Aldilur,60005290
-5235,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Aldilur:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Metropolis,Aldilur,60005290
-5236,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Metropolis,Aldilur,60005290
-5237,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Metropolis,Aldilur,60005290
-5238,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Metropolis,Aldilur,60005290
-5239,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Reset:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Metropolis,Reset,60005305
-5240,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Reset:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Metropolis,Reset,60005305
-5241,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Metropolis,Reset,60005305
-5242,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Metropolis,Reset,60005305
-5243,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Metropolis,Reset,60005305
+5229,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Aldilur:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Metropolis,Aldilur,60005290
+5230,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Aldilur:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Metropolis,Aldilur,60005290
+5231,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Metropolis,Aldilur,60005290
+5232,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Metropolis,Aldilur,60005290
+5233,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Aldilur:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Metropolis,Aldilur,60005290
+5234,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Reset:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Metropolis,Reset,60005305
+5235,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Reset:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Metropolis,Reset,60005305
+5236,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Metropolis,Reset,60005305
+5237,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Metropolis,Reset,60005305
+5238,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Reset:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Metropolis,Reset,60005305
+5239,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Mamet:Kamih:shortest,44884,44884,127,1.0,470,597,Domain,Mamet,60006652,Aridia,Kamih,60006118
+5240,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Misaba:Kamih:shortest,44884,44884,127,1.0,470,597,Domain,Misaba,60006658,Aridia,Kamih,60006118
+5241,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Vaini:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Vaini,60006712,Aridia,Kamih,60006118
+5242,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Keba:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Keba,60006721,Aridia,Kamih,60006118
+5243,Hydrogen Batteries,https://evemarketer.com/types/3685,128,5666605,http://eve-gatecheck.space/eve/#Omigiav:Kamih:shortest,44884,44884,127,1.0,470,597,Aridia,Omigiav,60006664,Aridia,Kamih,60006118
 5244,Antibiotics,https://evemarketer.com/types/43,115,5666024,http://eve-gatecheck.space/eve/#Kaimon:Inis-Ilix:shortest,23530,117650,49,0.2,320,368,The Citadel,Kaimon,60003160,Kador,Inis-Ilix,60000238
 5245,Pyerite,https://evemarketer.com/types/35,134,5662547,http://eve-gatecheck.space/eve/#Egbinger:Alentene:shortest,94261,9426068,1,0.01,3,4,Molden Heath,Egbinger,60000085,Verge Vendor,Alentene,60010873
 5246,Reactive Metals,https://evemarketer.com/types/2398,164,5658792,http://eve-gatecheck.space/eve/#Illamur:Jita:shortest,11321,29791,190,0.38,300,490,Molden Heath,Illamur,60002686,The Forge,Jita,60003760
@@ -5257,20 +5257,20 @@
 5255,Electronic Parts,https://evemarketer.com/types/3687,114,5654169,http://eve-gatecheck.space/eve/#Gonditsa:Ziona:shortest,58851,58851,97,1.0,705,802,Genesis,Gonditsa,60011257,Domain,Ziona,60001012
 5256,Electronic Parts,https://evemarketer.com/types/3687,114,5654169,http://eve-gatecheck.space/eve/#Shalne:Ziona:shortest,58851,58851,97,1.0,705,802,Genesis,Shalne,60011251,Domain,Ziona,60001012
 5257,Electronic Parts,https://evemarketer.com/types/3687,114,5654169,http://eve-gatecheck.space/eve/#Olin:Ziona:shortest,58851,58851,97,1.0,705,802,Genesis,Olin,60011254,Domain,Ziona,60001012
-5258,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Aridia,Kamih,60006118
-5259,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Aridia,Kamih,60006118
-5260,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Aridia,Kamih,60006118
-5261,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Metropolis,Aldilur,60005290
-5262,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Metropolis,Aldilur,60005290
-5263,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Metropolis,Aldilur,60005290
-5264,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Metropolis,Reset,60005305
-5265,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Metropolis,Reset,60005305
-5266,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Metropolis,Reset,60005305
+5258,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Metropolis,Aldilur,60005290
+5259,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Metropolis,Aldilur,60005290
+5260,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Metropolis,Aldilur,60005290
+5261,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Metropolis,Reset,60005305
+5262,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Metropolis,Reset,60005305
+5263,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Metropolis,Reset,60005305
+5264,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Fensi:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Fensi,60006682,Aridia,Kamih,60006118
+5265,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Khabara:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Khabara,60006676,Aridia,Kamih,60006118
+5266,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5654038,http://eve-gatecheck.space/eve/#Ami:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Ami,60006685,Aridia,Kamih,60006118
 5267,Electronic Parts,https://evemarketer.com/types/3687,114,5653581,http://eve-gatecheck.space/eve/#Antiainen:Ziona:shortest,58851,58851,97,1.0,706,802,Lonetrek,Antiainen,60011149,Domain,Ziona,60001012
 5268,Electronic Parts,https://evemarketer.com/types/3687,114,5653581,http://eve-gatecheck.space/eve/#Ossa:Ziona:shortest,58851,58851,97,1.0,706,802,Lonetrek,Ossa,60011143,Domain,Ziona,60001012
-5269,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Aridia,Kamih,60006118
-5270,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Metropolis,Aldilur,60005290
-5271,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Metropolis,Reset,60005305
+5269,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Aldilur:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Metropolis,Aldilur,60005290
+5270,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Reset:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Metropolis,Reset,60005305
+5271,Hydrogen Batteries,https://evemarketer.com/types/3685,127,5653140,http://eve-gatecheck.space/eve/#Jeni:Kamih:shortest,44884,44884,126,1.0,471,597,Kor-Azor,Jeni,60006679,Aridia,Kamih,60006118
 5272,Electronic Parts,https://evemarketer.com/types/3687,114,5652992,http://eve-gatecheck.space/eve/#Bogelek:Ziona:shortest,58851,58851,97,1.0,706,802,Heimatar,Bogelek,60011182,Domain,Ziona,60001012
 5273,Electronic Parts,https://evemarketer.com/types/3687,114,5652404,http://eve-gatecheck.space/eve/#Dantumi:Ziona:shortest,58851,58851,97,1.0,706,802,Lonetrek,Dantumi,60011152,Domain,Ziona,60001012
 5274,Electronic Parts,https://evemarketer.com/types/3687,122,5650584,http://eve-gatecheck.space/eve/#Ellmay:Kourmonen:shortest,35672,35672,159,1.0,736,895,Verge Vendor,Ellmay,60011206,The Bleak Lands,Kourmonen,60002200
@@ -5495,9 +5495,9 @@
 5493,Spirits,https://evemarketer.com/types/9850,115,5439689,http://eve-gatecheck.space/eve/#Charmerout:Trer:shortest,16511,82551,66,0.2,459,525,Essence,Charmerout,60014539,Heimatar,Trer,60001840
 5494,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Ansasos:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Kador,Ansasos,60006763
 5495,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Bordan:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Kador,Bordan,60006766
-5496,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Nalnifan:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Aridia,Nalnifan,60001123
-5497,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Tamo:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Lonetrek,Tamo,60002344
-5498,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Kourmonen:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,The Bleak Lands,Kourmonen,60002200
+5496,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Tamo:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Lonetrek,Tamo,60002344
+5497,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Kourmonen:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,The Bleak Lands,Kourmonen,60002200
+5498,Electronic Parts,https://evemarketer.com/types/3687,124,5439405,http://eve-gatecheck.space/eve/#Thakala:Nalnifan:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Aridia,Nalnifan,60001123
 5499,Electronic Parts,https://evemarketer.com/types/3687,124,5439243,http://eve-gatecheck.space/eve/#Thakala:Allebin:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Essence,Allebin,60002227
 5500,Electronic Parts,https://evemarketer.com/types/3687,124,5439226,http://eve-gatecheck.space/eve/#Thakala:Vivanier:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Placid,Vivanier,60009124
 5501,Electronic Parts,https://evemarketer.com/types/3687,124,5439080,http://eve-gatecheck.space/eve/#Thakala:Frerstorn:shortest,32445,32445,168,1.0,727,895,Devoid,Thakala,60002515,Metropolis,Frerstorn,60002134
@@ -5987,9 +5987,9 @@
 5985,Noctis,https://evemarketer.com/types/2998,113,5079002,http://eve-gatecheck.space/eve/#Torrinos:Botane:shortest,20000,1,5079002,20000.0,40000000,45079002,Lonetrek,Torrinos,60004045,Sinq Laison,Botane,1025824394754
 5986,Noctis,https://evemarketer.com/types/2998,113,5079000,http://eve-gatecheck.space/eve/#Torrinos:Agrallarier:shortest,20000,1,5079000,20000.0,40000000,45079000,Lonetrek,Torrinos,60004045,Sinq Laison,Agrallarier,60009676
 5987,Hawk,https://evemarketer.com/types/11379,119,5078502,http://eve-gatecheck.space/eve/#Kehjari:Perimeter:shortest,2500,1,5078502,2500.0,28000000,33078502,Black Rise,Kehjari,60015107,The Forge,Perimeter,1028858195912
-5988,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Kamih:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Aridia,Kamih,60006118
-5989,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Aldilur:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Metropolis,Aldilur,60005290
-5990,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Reset:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Metropolis,Reset,60005305
+5988,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Aldilur:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Metropolis,Aldilur,60005290
+5989,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Reset:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Metropolis,Reset,60005305
+5990,Hydrogen Batteries,https://evemarketer.com/types/3685,124,5077279,http://eve-gatecheck.space/eve/#Sigga:Kamih:shortest,44884,44884,114,1.0,484,597,Genesis,Sigga,60006634,Aridia,Kamih,60006118
 5991,Spirits,https://evemarketer.com/types/9850,117,5074898,http://eve-gatecheck.space/eve/#Olide:Tadadan:shortest,14114,70568,72,0.2,428,500,Everyshore,Olide,60001369,Kor-Azor,Tadadan,60001972
 5992,Tritanium,https://evemarketer.com/types/34,125,5073359,http://eve-gatecheck.space/eve/#Egbinger:Ommare:shortest,150000,15000000,1,0.01,4,5,Molden Heath,Egbinger,60000085,Essence,Ommare,60011959
 5993,Tritanium,https://evemarketer.com/types/34,125,5073258,http://eve-gatecheck.space/eve/#Gehi:Jita:shortest,179957,17995614,1,0.01,4,5,Khanid,Gehi,60013990,The Forge,Jita,60003760
