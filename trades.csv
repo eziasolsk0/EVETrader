@@ -825,9 +825,9 @@
 823,Pyerite,https://evemarketer.com/types/35,134,37284634,http://eve-gatecheck.space/eve/#Konora:Nahyeen:shortest,491086,49108572,1,0.01,3,4,Metropolis,Konora,60001039,Kor-Azor,Nahyeen,60008209
 824,Liquid Ozone,https://evemarketer.com/types/16273,119,37141324,http://eve-gatecheck.space/eve/#Odebeinn:Perimeter:shortest,951694,2379233,16,0.4,80,95,Metropolis,Odebeinn,60001030,The Forge,Perimeter,1028858195912
 825,Strontium Clathrates,https://evemarketer.com/types/16275,114,37084759,http://eve-gatecheck.space/eve/#Misaba:Ashab:shortest,584430,194810,191,3.0,1425,1615,Domain,Misaba,60006658,Domain,Ashab,1023968078820
-826,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
-827,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
-828,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Bhizheba:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Domain,Bhizheba,60008374
+826,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
+827,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Bhizheba:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Domain,Bhizheba,60008374
+828,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
 829,Tritanium,https://evemarketer.com/types/34,125,36923363,http://eve-gatecheck.space/eve/#Gehi:Umokka:shortest,722732,72273111,1,0.01,4,5,Khanid,Gehi,60013990,Lonetrek,Umokka,60003886
 830,Liquid Ozone,https://evemarketer.com/types/16273,126,36907089,http://eve-gatecheck.space/eve/#Podion:Rens:shortest,569212,1423028,26,0.4,100,126,Derelik,Podion,60013867,Heimatar,Rens,60004588
 831,Strontium Clathrates,https://evemarketer.com/types/16275,414,36839937,http://eve-gatecheck.space/eve/#Konora:Dodixie:shortest,112113,37371,986,3.0,315,1301,Metropolis,Konora,60001039,Sinq Laison,Dodixie,60011866
@@ -2347,7 +2347,7 @@
 2345,Pyerite,https://evemarketer.com/types/35,150,11358646,http://eve-gatecheck.space/eve/#Klingt:Lirsautton:shortest,157759,15775897,1,0.01,2,3,Molden Heath,Klingt,60004885,Everyshore,Lirsautton,60009850
 2346,Mechanical Parts,https://evemarketer.com/types/3689,112,11356689,http://eve-gatecheck.space/eve/#Goudiyah:Ashab:shortest,17018,11345,1002,1.5,9000,10002,Khanid,Goudiyah,60013948,Domain,Ashab,1023968078820
 2347,Water,https://evemarketer.com/types/3645,154,11351772,http://eve-gatecheck.space/eve/#Badivefi:Soumi:shortest,32313,85032,134,0.38,249,383,Khanid,Badivefi,60013984,Kor-Azor,Soumi,60003487
-2348,Luminous Kernite,https://evemarketer.com/types/17452,140,11346999,http://eve-gatecheck.space/eve/#Mishi:Dresi:shortest,399191,332659,35,1.2,88,123,Aridia,Mishi,60012397,Kador,Dresi,60006238
+2348,Luminous Kernite,https://evemarketer.com/types/17452,140,11343793,http://eve-gatecheck.space/eve/#Mishi:Dresi:shortest,399078,332565,35,1.2,88,123,Aridia,Mishi,60012397,Kador,Dresi,60006238
 2349,Liquid Ozone,https://evemarketer.com/types/16273,129,11334860,http://eve-gatecheck.space/eve/#Konora:Antiainen:shortest,200000,500000,23,0.4,78,100,Metropolis,Konora,60001039,Lonetrek,Antiainen,60002980
 2350,Tritanium,https://evemarketer.com/types/34,125,11315860,http://eve-gatecheck.space/eve/#Podion:Audaerne:shortest,93629,9362898,2,0.01,4,5,Derelik,Podion,60013867,Sinq Laison,Audaerne,60010453
 2351,Electronic Parts,https://evemarketer.com/types/3687,125,11308884,http://eve-gatecheck.space/eve/#Akila:Lisudeh:shortest,64488,64488,176,1.0,704,880,Domain,Akila,60011191,Devoid,Lisudeh,60001174
