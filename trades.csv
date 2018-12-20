@@ -817,9 +817,9 @@
 815,Tritanium,https://evemarketer.com/types/34,125,37161876,http://eve-gatecheck.space/eve/#Ienakkamon:Oursulaert:shortest,394221,39422074,1,0.01,4,5,Black Rise,Ienakkamon,60015110,Essence,Oursulaert,60011740
 816,Heavy Water,https://evemarketer.com/types/16272,120,37083895,http://eve-gatecheck.space/eve/#Konora:Jita:shortest,200115,500286,75,0.4,380,454,Metropolis,Konora,60005806,The Forge,Jita,60003760
 817,Strontium Clathrates,https://evemarketer.com/types/16275,114,37081304,http://eve-gatecheck.space/eve/#Misaba:Ashab:shortest,584430,194810,191,3.0,1425,1615,Domain,Misaba,60006658,Domain,Ashab,1023968078820
-818,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
-819,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
-820,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Bhizheba:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Domain,Bhizheba,60008374
+818,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
+819,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Bhizheba:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Domain,Bhizheba,60008374
+820,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
 821,Tritanium,https://evemarketer.com/types/34,125,36923549,http://eve-gatecheck.space/eve/#Gehi:Umokka:shortest,722732,72273111,1,0.01,4,5,Khanid,Gehi,60013990,Lonetrek,Umokka,60003886
 822,Liquid Ozone,https://evemarketer.com/types/16273,126,36907089,http://eve-gatecheck.space/eve/#Podion:Rens:shortest,569212,1423028,26,0.4,100,126,Derelik,Podion,60013867,Heimatar,Rens,60004588
 823,Strontium Clathrates,https://evemarketer.com/types/16275,414,36839937,http://eve-gatecheck.space/eve/#Konora:Dodixie:shortest,112113,37371,986,3.0,315,1301,Metropolis,Konora,60001039,Sinq Laison,Dodixie,60011866
@@ -2351,7 +2351,7 @@
 2349,Station Container,https://evemarketer.com/types/17366,3334,11640006,http://eve-gatecheck.space/eve/#Conoban:Eugales:shortest,60000,6,1940001,10000.0,59999,2000000,Kor-Azor,Conoban,60015020,Placid,Eugales,60010987
 2350,Station Container,https://evemarketer.com/types/17366,3334,11640001,http://eve-gatecheck.space/eve/#Umokka:Eugales:shortest,60000,6,1940001,10000.0,60000,2000000,Lonetrek,Umokka,60003886,Placid,Eugales,60010987
 2351,Station Container,https://evemarketer.com/types/17366,3334,11640000,http://eve-gatecheck.space/eve/#Ouelletta:Eugales:shortest,60000,6,1940000,10000.0,60000,2000000,Verge Vendor,Ouelletta,60014704,Placid,Eugales,60010987
-2352,Station Container,https://evemarketer.com/types/17366,3309,11637334,http://eve-gatecheck.space/eve/#Aphend:Eugales:shortest,60000,6,1939556,10000.0,60445,2000000,Kador,Aphend,60006250,Placid,Eugales,60010987
+2352,Station Container,https://evemarketer.com/types/17366,3308,11637231,http://eve-gatecheck.space/eve/#Aphend:Eugales:shortest,60000,6,1939539,10000.0,60462,2000000,Kador,Aphend,60006250,Placid,Eugales,60010987
 2353,Microorganisms,https://evemarketer.com/types/2073,150,11617576,http://eve-gatecheck.space/eve/#Misaba:Hykkota:shortest,96014,9601302,2,0.01,2,3,Domain,Misaba,60006658,The Forge,Hykkota,60003109
 2354,Drake,https://evemarketer.com/types/24698,124,11614000,http://eve-gatecheck.space/eve/#Egbinger:Lirsautton:shortest,30000,2,5807000,15000.0,25000000,30807000,Molden Heath,Egbinger,60000085,Everyshore,Lirsautton,60010216
 2355,Drake,https://evemarketer.com/types/24698,124,11613551,http://eve-gatecheck.space/eve/#Egbinger:Azer:shortest,30000,2,5806776,15000.0,25000000,30806776,Molden Heath,Egbinger,60000085,Everyshore,Azer,1021298932576
