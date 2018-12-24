@@ -112,7 +112,7 @@
 110,Nidhoggur,https://evemarketer.com/types/24483,121,180000100,http://eve-gatecheck.space/eve/#Daras:Mora:shortest,1300000,1,180000100,1300000.0,900000000,1080000100,Lonetrek,Daras,60003991,Kor-Azor,Mora,1026915202936
 111,Moros,https://evemarketer.com/types/19724,115,179999700,http://eve-gatecheck.space/eve/#Unertek:Misaba:shortest,1300000,1,179999700,1300000.0,1200000000,1379999700,Molden Heath,Unertek,60013318,Domain,Misaba,60006658
 112,Tritanium,https://evemarketer.com/types/34,125,179512506,http://eve-gatecheck.space/eve/#Irmalin:Aikoro:shortest,3695988,369598727,1,0.01,4,5,Khanid,Irmalin,60013945,The Citadel,Aikoro,60001762
-113,Pyerite,https://evemarketer.com/types/35,200,178407432,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,1069721,106972085,2,0.01,2,4,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
+113,Pyerite,https://evemarketer.com/types/35,200,178407321,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,1069721,106972019,2,0.01,2,4,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
 114,Liquid Ozone,https://evemarketer.com/types/16273,210,178089460,http://eve-gatecheck.space/eve/#Konora:Pulin:shortest,1548604,3871510,46,0.4,42,88,Metropolis,Konora,60001039,Sinq Laison,Pulin,60010582
 115,Tritanium,https://evemarketer.com/types/34,125,176742846,http://eve-gatecheck.space/eve/#Villasen:Kiainti:shortest,2073446,207344524,1,0.01,4,5,Black Rise,Villasen,60015108,The Forge,Kiainti,60013147
 116,Liquid Ozone,https://evemarketer.com/types/16273,175,176270955,http://eve-gatecheck.space/eve/#Iitanmadan:Dodixie:shortest,1602164,4005410,45,0.4,60,105,Lonetrek,Iitanmadan,60001732,Sinq Laison,Dodixie,60011866
@@ -187,7 +187,7 @@
 185,Phoenix,https://evemarketer.com/types/19726,111,141551100,http://eve-gatecheck.space/eve/#Podion:Sankkasen:shortest,1300000,1,141551100,1300000.0,1400000000,1541551100,Derelik,Podion,60013867,The Citadel,Sankkasen,60004456
 186,Heavy Water,https://evemarketer.com/types/16272,120,141462387,http://eve-gatecheck.space/eve/#Podion:Odebeinn:shortest,1357970,3394923,42,0.4,219,261,Derelik,Podion,60013867,Metropolis,Odebeinn,60001030
 187,Pyerite,https://evemarketer.com/types/35,134,141215812,http://eve-gatecheck.space/eve/#Odebeinn:Dabrid:shortest,2089708,208970788,1,0.01,3,4,Metropolis,Odebeinn,60001030,Tash-Murkon,Dabrid,60008419
-188,Pyerite,https://evemarketer.com/types/35,200,140967202,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,1069721,106972085,2,0.01,2,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
+188,Pyerite,https://evemarketer.com/types/35,200,140967115,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,1069721,106972019,2,0.01,2,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
 189,Pyerite,https://evemarketer.com/types/35,134,140754779,http://eve-gatecheck.space/eve/#Konora:Dabrid:shortest,2089708,208970788,1,0.01,3,4,Metropolis,Konora,60001039,Tash-Murkon,Dabrid,60008419
 190,Liquid Ozone,https://evemarketer.com/types/16273,160,140376256,http://eve-gatecheck.space/eve/#Iitanmadan:Amarr:shortest,1602164,4005410,36,0.4,60,96,Lonetrek,Iitanmadan,60001732,Domain,Amarr,60008494
 191,Pyerite,https://evemarketer.com/types/35,200,139994987,http://eve-gatecheck.space/eve/#Egbinger:Kausaaja:shortest,999965,99996419,2,0.01,2,4,Molden Heath,Egbinger,60000085,The Citadel,Kausaaja,60001756
@@ -408,9 +408,9 @@
 406,Tritanium,https://evemarketer.com/types/34,125,89262482,http://eve-gatecheck.space/eve/#Hadozeko:Aikoro:shortest,1242210,124220909,1,0.01,4,5,Metropolis,Hadozeko,60004897,The Citadel,Aikoro,60001762
 407,Strontium Clathrates,https://evemarketer.com/types/16275,180,88955244,http://eve-gatecheck.space/eve/#Iitanmadan:Dodixie:shortest,337320,112440,792,3.0,990,1782,Lonetrek,Iitanmadan,60001732,Sinq Laison,Dodixie,60011866
 408,Liquid Ozone,https://evemarketer.com/types/16273,122,88921055,http://eve-gatecheck.space/eve/#Odebeinn:Rens:shortest,2450580,6126450,15,0.4,70,85,Metropolis,Odebeinn,60001030,Heimatar,Rens,60004588
-409,Pyerite,https://evemarketer.com/types/35,134,88704073,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
+409,Pyerite,https://evemarketer.com/types/35,134,88704018,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
 410,Isogen,https://evemarketer.com/types/37,115,88651601,http://eve-gatecheck.space/eve/#Villasen:Dodixie:shortest,456448,45644776,2,0.01,14,16,Black Rise,Villasen,60015108,Sinq Laison,Dodixie,60011866
-411,Pyerite,https://evemarketer.com/types/35,134,88468070,http://eve-gatecheck.space/eve/#Konora:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Metropolis,Konora,60001039,Placid,Stacmon,60011893
+411,Pyerite,https://evemarketer.com/types/35,134,88468015,http://eve-gatecheck.space/eve/#Konora:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Metropolis,Konora,60001039,Placid,Stacmon,60011893
 412,Archon,https://evemarketer.com/types/23757,111,88111402,http://eve-gatecheck.space/eve/#Pakkonen:Muvolailen:shortest,1300000,1,88111402,1300000.0,871999999,960111401,Lonetrek,Pakkonen,60002935,The Citadel,Muvolailen,1021701589215
 413,Archon,https://evemarketer.com/types/23757,111,88111302,http://eve-gatecheck.space/eve/#Pakkonen:Tintoh:shortest,1300000,1,88111302,1300000.0,871999999,960111301,Lonetrek,Pakkonen,60002935,The Citadel,Tintoh,60015146
 414,Archon,https://evemarketer.com/types/23757,111,88110402,http://eve-gatecheck.space/eve/#Pakkonen:Motsu:shortest,1300000,1,88110402,1300000.0,871999999,960110401,Lonetrek,Pakkonen,60002935,The Citadel,Motsu,60003787
@@ -419,7 +419,7 @@
 417,Tritanium,https://evemarketer.com/types/34,125,87973832,http://eve-gatecheck.space/eve/#Odebeinn:Miroona:shortest,778885,77888433,2,0.01,4,5,Metropolis,Odebeinn,60001030,Kor-Azor,Miroona,60013276
 418,Tritanium,https://evemarketer.com/types/34,125,87771941,http://eve-gatecheck.space/eve/#Hadozeko:Amarr:shortest,1242210,124220909,1,0.01,4,5,Metropolis,Hadozeko,60004897,Domain,Amarr,60008494
 419,Tritanium,https://evemarketer.com/types/34,125,87652673,http://eve-gatecheck.space/eve/#Odebeinn:Venilen:shortest,768968,76896763,2,0.01,4,5,Metropolis,Odebeinn,60001030,The Citadel,Venilen,60003853
-420,Pyerite,https://evemarketer.com/types/35,134,87549838,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Derelik,Podion,60013867,Placid,Stacmon,60011893
+420,Pyerite,https://evemarketer.com/types/35,134,87549784,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Derelik,Podion,60013867,Placid,Stacmon,60011893
 421,Strontium Clathrates,https://evemarketer.com/types/16275,178,87429700,http://eve-gatecheck.space/eve/#Odebeinn:Odixie:shortest,299928,99976,875,3.0,1126,2001,Metropolis,Odebeinn,60001030,Everyshore,Odixie,60011656
 422,Pyerite,https://evemarketer.com/types/35,200,87367838,http://eve-gatecheck.space/eve/#Villasen:Isikemi:shortest,578595,57859495,2,0.01,2,4,Black Rise,Villasen,60015108,Lonetrek,Isikemi,60002905
 423,Strontium Clathrates,https://evemarketer.com/types/16275,178,87270436,http://eve-gatecheck.space/eve/#Villasen:Odixie:shortest,299928,99976,873,3.0,1128,2001,Black Rise,Villasen,60015108,Everyshore,Odixie,60011656
@@ -454,7 +454,7 @@
 452,Tritanium,https://evemarketer.com/types/34,125,82525574,http://eve-gatecheck.space/eve/#Odebeinn:Jel:shortest,907388,90738777,1,0.01,4,5,Metropolis,Odebeinn,60001030,Sinq Laison,Jel,60010351
 453,Mexallon,https://evemarketer.com/types/36,113,82349284,http://eve-gatecheck.space/eve/#Chardalane:Perimeter:shortest,163944,16394316,6,0.01,50,56,Placid,Chardalane,60014575,The Forge,Perimeter,1029385372500
 454,Pyerite,https://evemarketer.com/types/35,150,81874983,http://eve-gatecheck.space/eve/#Villasen:Orvolle:shortest,818750,81874983,1,0.01,2,3,Black Rise,Villasen,60015108,Placid,Orvolle,1021282873756
-455,Pyerite,https://evemarketer.com/types/35,134,81778242,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,1064091,106409087,1,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
+455,Pyerite,https://evemarketer.com/types/35,134,81778241,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,1064091,106409087,1,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
 456,Tritanium,https://evemarketer.com/types/34,125,81648940,http://eve-gatecheck.space/eve/#Podion:Misneden:shortest,500000,50000000,2,0.01,4,5,Derelik,Podion,60013867,Sinq Laison,Misneden,60012040
 457,Heavy Water,https://evemarketer.com/types/16272,137,81628806,http://eve-gatecheck.space/eve/#Podion:Hakonen:shortest,400000,1000000,82,0.4,219,300,Derelik,Podion,60013867,Lonetrek,Hakonen,60000820
 458,Capital Corporate Hangar Bay,https://evemarketer.com/types/24560,133,81611762,http://eve-gatecheck.space/eve/#Obe:Jita:shortest,500000,50,1632236,10000.0,5000000,6632236,The Forge,Obe,60000964,The Forge,Jita,60003760
@@ -494,7 +494,7 @@
 492,Machariel,https://evemarketer.com/types/17738,112,77638587,http://eve-gatecheck.space/eve/#Podion:Perimeter:shortest,100000,2,38819294,50000.0,342500000,381319294,Derelik,Podion,60013867,The Forge,Perimeter,1028858195912
 493,Tritanium,https://evemarketer.com/types/34,125,77440681,http://eve-gatecheck.space/eve/#Odebeinn:Grinacanne:shortest,911619,91161896,1,0.01,4,5,Metropolis,Odebeinn,60001030,Sinq Laison,Grinacanne,60011923
 494,Noctis,https://evemarketer.com/types/2998,113,77440438,http://eve-gatecheck.space/eve/#Misaba:Botane:shortest,300000,15,5162696,20000.0,39916666,45079362,Domain,Misaba,60006658,Sinq Laison,Botane,1025824394754
-495,Tritanium,https://evemarketer.com/types/34,125,77289588,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,726305,72630410,2,0.01,4,5,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
+495,Tritanium,https://evemarketer.com/types/34,125,77288262,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,726292,72629182,2,0.01,4,5,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
 496,Strontium Clathrates,https://evemarketer.com/types/16275,118,77159792,http://eve-gatecheck.space/eve/#Odebeinn:Dodixie:shortest,1189725,396575,195,3.0,1126,1321,Metropolis,Odebeinn,60001030,Sinq Laison,Dodixie,60011866
 497,Capital Armor Plates,https://evemarketer.com/types/21017,129,77050001,http://eve-gatecheck.space/eve/#Odebeinn:Jita:shortest,670000,67,1150001,10000.0,4000000,5150001,Metropolis,Odebeinn,60001030,The Forge,Jita,60003760
 498,Rupture,https://evemarketer.com/types/629,131,77021321,http://eve-gatecheck.space/eve/#Misaba:Perimeter:shortest,510000,51,1510222,10000.0,4999999,6510221,Domain,Misaba,60006658,The Forge,Perimeter,1028858195912
@@ -600,9 +600,9 @@
 598,Pyerite,https://evemarketer.com/types/35,150,66666600,http://eve-gatecheck.space/eve/#Egbinger:Sakenta:shortest,1010100,101010000,1,0.01,2,3,Molden Heath,Egbinger,60000085,The Forge,Sakenta,1028545679881
 599,Compressed Glare Crust,https://evemarketer.com/types/28439,127,66595531,http://eve-gatecheck.space/eve/#Odebeinn:Amarr:shortest,51000,510,130580,100.0,500000,630580,Metropolis,Odebeinn,60001030,Domain,Amarr,60008494
 600,Liquid Ozone,https://evemarketer.com/types/16273,129,66564791,http://eve-gatecheck.space/eve/#Konora:Eram:shortest,1198302,2995753,23,0.4,78,100,Metropolis,Konora,60001039,Metropolis,Eram,60005722
-601,Tritanium,https://evemarketer.com/types/34,125,66432417,http://eve-gatecheck.space/eve/#Hadozeko:Stacmon:shortest,726305,72630410,1,0.01,4,5,Metropolis,Hadozeko,60004897,Placid,Stacmon,60011893
-602,Tritanium,https://evemarketer.com/types/34,125,66432417,http://eve-gatecheck.space/eve/#Hykanima:Stacmon:shortest,726305,72630410,1,0.01,4,5,Black Rise,Hykanima,60015076,Placid,Stacmon,60011893
-603,Tritanium,https://evemarketer.com/types/34,125,66432417,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,726305,72630410,1,0.01,4,5,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
+601,Tritanium,https://evemarketer.com/types/34,125,66431275,http://eve-gatecheck.space/eve/#Hadozeko:Stacmon:shortest,726292,72629182,1,0.01,4,5,Metropolis,Hadozeko,60004897,Placid,Stacmon,60011893
+602,Tritanium,https://evemarketer.com/types/34,125,66431275,http://eve-gatecheck.space/eve/#Hykanima:Stacmon:shortest,726292,72629182,1,0.01,4,5,Black Rise,Hykanima,60015076,Placid,Stacmon,60011893
+603,Tritanium,https://evemarketer.com/types/34,125,66431275,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,726292,72629182,1,0.01,4,5,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
 604,Strontium Clathrates,https://evemarketer.com/types/16275,194,65953074,http://eve-gatecheck.space/eve/#Odebeinn:Nakugard:shortest,299547,99849,661,3.0,705,1366,Metropolis,Odebeinn,60001030,Metropolis,Nakugard,60004549
 605,Pyerite,https://evemarketer.com/types/35,134,65909229,http://eve-gatecheck.space/eve/#Skarkon:Shenda:shortest,376061,37606084,2,0.01,3,4,Molden Heath,Skarkon,60004651,Aridia,Shenda,60010531
 606,Pyerite,https://evemarketer.com/types/35,200,65884290,http://eve-gatecheck.space/eve/#Egbinger:Aikoro:shortest,506803,50680223,2,0.01,2,4,Molden Heath,Egbinger,60000085,The Citadel,Aikoro,60001762
@@ -612,7 +612,7 @@
 610,Pyerite,https://evemarketer.com/types/35,134,65448898,http://eve-gatecheck.space/eve/#Egbinger:Dabrid:shortest,1064091,106409087,1,0.01,3,4,Molden Heath,Egbinger,60000085,Tash-Murkon,Dabrid,60008419
 611,Noble Metals,https://evemarketer.com/types/2270,167,65314279,http://eve-gatecheck.space/eve/#Ihakana:Naeel:shortest,498583,49858228,2,0.01,3,5,The Forge,Ihakana,60001876,Devoid,Naeel,60014521
 612,Pyerite,https://evemarketer.com/types/35,150,65241110,http://eve-gatecheck.space/eve/#Villasen:Allamotte:shortest,483268,48326748,2,0.01,2,3,Black Rise,Villasen,60015108,Essence,Allamotte,60009925
-613,Tritanium,https://evemarketer.com/types/34,125,65189360,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,544314,54431391,2,0.01,4,5,Derelik,Podion,60013867,Placid,Stacmon,60011893
+613,Tritanium,https://evemarketer.com/types/34,125,65189346,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,544314,54431391,2,0.01,4,5,Derelik,Podion,60013867,Placid,Stacmon,60011893
 614,Strontium Clathrates,https://evemarketer.com/types/16275,149,65087164,http://eve-gatecheck.space/eve/#Villasen:Odixie:shortest,299928,99976,652,3.0,1349,2001,Black Rise,Villasen,60015108,Everyshore,Odixie,60011656
 615,Pyerite,https://evemarketer.com/types/35,134,64922682,http://eve-gatecheck.space/eve/#Odebeinn:Amarr:shortest,1519371,151937018,1,0.01,3,4,Metropolis,Odebeinn,60001030,Domain,Amarr,60008494
 616,Luminous Kernite,https://evemarketer.com/types/17452,157,64825991,http://eve-gatecheck.space/eve/#Mishi:Badivefi:shortest,1587501,1322917,50,1.2,88,138,Aridia,Mishi,60012397,Khanid,Badivefi,60013984
@@ -807,14 +807,14 @@
 805,Tritanium,https://evemarketer.com/types/34,125,51791788,http://eve-gatecheck.space/eve/#Podion:Dodixie:shortest,1372855,137285482,1,0.01,4,5,Derelik,Podion,60013867,Sinq Laison,Dodixie,60011866
 806,Pyerite,https://evemarketer.com/types/35,134,51573355,http://eve-gatecheck.space/eve/#Podion:Shenda:shortest,499848,49984702,2,0.01,3,4,Derelik,Podion,60013867,Aridia,Shenda,60010531
 807,Strontium Clathrates,https://evemarketer.com/types/16275,114,51512447,http://eve-gatecheck.space/eve/#Horaka:Amarr:shortest,848835,282945,183,3.0,1382,1564,Molden Heath,Horaka,60002680,Domain,Amarr,60008494
-808,Strontium Clathrates,https://evemarketer.com/types/16275,116,51469909,http://eve-gatecheck.space/eve/#Villasen:Perimeter:shortest,865434,288478,179,3.0,1128,1306,Black Rise,Villasen,60015108,The Forge,Perimeter,1028858195912
-809,Pyerite,https://evemarketer.com/types/35,134,51353920,http://eve-gatecheck.space/eve/#Faspera:Shenda:shortest,499848,49984702,2,0.01,3,4,Derelik,Faspera,60012163,Aridia,Shenda,60010531
-810,Pyerite,https://evemarketer.com/types/35,134,51343214,http://eve-gatecheck.space/eve/#Podion:Seil:shortest,932425,93242454,1,0.01,3,4,Derelik,Podion,60013867,Tash-Murkon,Seil,1021555189321
-811,Pyerite,https://evemarketer.com/types/35,134,51312772,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,463198,46319766,2,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
-812,Pyerite,https://evemarketer.com/types/35,200,51301582,http://eve-gatecheck.space/eve/#Egbinger:Uitra:shortest,483087,48308644,2,0.01,2,4,Molden Heath,Egbinger,60000085,The Forge,Uitra,60015027
-813,Capital Cargo Bay,https://evemarketer.com/types/21027,114,51300837,http://eve-gatecheck.space/eve/#Egbinger:Ashab:shortest,760000,76,675012,10000.0,4900000,5575012,Molden Heath,Egbinger,60000085,Domain,Ashab,1023968078820
-814,Spiced Wine,https://evemarketer.com/types/42,116,51252876,http://eve-gatecheck.space/eve/#Orvolle:Mannar:shortest,113146,226292,227,0.5,1483,1709,Placid,Orvolle,60009424,Everyshore,Mannar,60011347
-815,Spiced Wine,https://evemarketer.com/types/42,116,51252876,http://eve-gatecheck.space/eve/#Maut:Mannar:shortest,113146,226292,227,0.5,1483,1709,Placid,Maut,60009427,Everyshore,Mannar,60011347
+808,Spiced Wine,https://evemarketer.com/types/42,116,51479168,http://eve-gatecheck.space/eve/#Orvolle:Mannar:shortest,113146,226292,228,0.5,1482,1709,Placid,Orvolle,60009424,Everyshore,Mannar,60011347
+809,Spiced Wine,https://evemarketer.com/types/42,116,51479168,http://eve-gatecheck.space/eve/#Maut:Mannar:shortest,113146,226292,228,0.5,1482,1709,Placid,Maut,60009427,Everyshore,Mannar,60011347
+810,Strontium Clathrates,https://evemarketer.com/types/16275,116,51469909,http://eve-gatecheck.space/eve/#Villasen:Perimeter:shortest,865434,288478,179,3.0,1128,1306,Black Rise,Villasen,60015108,The Forge,Perimeter,1028858195912
+811,Pyerite,https://evemarketer.com/types/35,134,51353920,http://eve-gatecheck.space/eve/#Faspera:Shenda:shortest,499848,49984702,2,0.01,3,4,Derelik,Faspera,60012163,Aridia,Shenda,60010531
+812,Pyerite,https://evemarketer.com/types/35,134,51343214,http://eve-gatecheck.space/eve/#Podion:Seil:shortest,932425,93242454,1,0.01,3,4,Derelik,Podion,60013867,Tash-Murkon,Seil,1021555189321
+813,Pyerite,https://evemarketer.com/types/35,134,51312772,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,463198,46319766,2,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
+814,Pyerite,https://evemarketer.com/types/35,200,51301582,http://eve-gatecheck.space/eve/#Egbinger:Uitra:shortest,483087,48308644,2,0.01,2,4,Molden Heath,Egbinger,60000085,The Forge,Uitra,60015027
+815,Capital Cargo Bay,https://evemarketer.com/types/21027,114,51300837,http://eve-gatecheck.space/eve/#Egbinger:Ashab:shortest,760000,76,675012,10000.0,4900000,5575012,Molden Heath,Egbinger,60000085,Domain,Ashab,1023968078820
 816,White Glaze,https://evemarketer.com/types/16265,111,51220000,http://eve-gatecheck.space/eve/#Jotenen:Osmon:shortest,2561000,2561,20000,1000.0,190000,210000,Lonetrek,Jotenen,60003406,The Forge,Osmon,60012667
 817,White Glaze,https://evemarketer.com/types/16265,111,51220000,http://eve-gatecheck.space/eve/#Jotenen:Hurtoken:shortest,2561000,2561,20000,1000.0,190000,210000,Lonetrek,Jotenen,60003406,The Forge,Hurtoken,60001639
 818,Strontium Clathrates,https://evemarketer.com/types/16275,190,50969924,http://eve-gatecheck.space/eve/#Konora:Odixie:shortest,161805,53935,946,3.0,1055,2001,Metropolis,Konora,60001039,Everyshore,Odixie,60011656
@@ -837,7 +837,7 @@
 835,Strontium Clathrates,https://evemarketer.com/types/16275,143,50065263,http://eve-gatecheck.space/eve/#Saranen:Ashab:shortest,324879,108293,463,3.0,1100,1563,Lonetrek,Saranen,60009898,Domain,Ashab,1023968078820
 836,Strontium Clathrates,https://evemarketer.com/types/16275,134,50010960,http://eve-gatecheck.space/eve/#Rakapas:Odixie:shortest,299928,99976,501,3.0,1500,2001,Black Rise,Rakapas,60015130,Everyshore,Odixie,60011656
 837,Osprey,https://evemarketer.com/types/620,184,50000021,http://eve-gatecheck.space/eve/#Odebeinn:Perimeter:shortest,200000,20,2500002,10000.0,2999999,5500001,Metropolis,Odebeinn,60001030,The Forge,Perimeter,1028858195912
-838,Tritanium,https://evemarketer.com/types/34,125,49994931,http://eve-gatecheck.space/eve/#Gehi:Stacmon:shortest,546594,54659344,1,0.01,4,5,Khanid,Gehi,60013990,Placid,Stacmon,60011893
+838,Tritanium,https://evemarketer.com/types/34,125,49994917,http://eve-gatecheck.space/eve/#Gehi:Stacmon:shortest,546594,54659344,1,0.01,4,5,Khanid,Gehi,60013990,Placid,Stacmon,60011893
 839,Liquid Ozone,https://evemarketer.com/types/16273,139,49991075,http://eve-gatecheck.space/eve/#Assah:Dodixie:shortest,799858,1999643,25,0.4,65,90,Derelik,Assah,60006490,Sinq Laison,Dodixie,60011866
 840,Pyerite,https://evemarketer.com/types/35,134,49984702,http://eve-gatecheck.space/eve/#Villasen:Shenda:shortest,499848,49984702,1,0.01,3,4,Black Rise,Villasen,60015108,Aridia,Shenda,60010531
 841,Pyerite,https://evemarketer.com/types/35,150,49982510,http://eve-gatecheck.space/eve/#Egbinger:Schmaeel:shortest,499826,49982510,1,0.01,2,3,Molden Heath,Egbinger,60000085,Kor-Azor,Schmaeel,60014656
@@ -849,7 +849,7 @@
 847,Liquid Ozone,https://evemarketer.com/types/16273,135,49577418,http://eve-gatecheck.space/eve/#Jan:Perimeter:shortest,721389,1803471,28,0.4,78,105,Lonetrek,Jan,60012334,The Forge,Perimeter,1028858195912
 848,Luminous Kernite,https://evemarketer.com/types/17452,144,49566703,http://eve-gatecheck.space/eve/#Mishi:Ashab:shortest,1587501,1322917,38,1.2,88,126,Aridia,Mishi,60012397,Domain,Ashab,1023968078820
 849,Pyerite,https://evemarketer.com/types/35,150,49547437,http://eve-gatecheck.space/eve/#Villasen:Hek:shortest,1099583,109958268,1,0.01,2,3,Black Rise,Villasen,60015108,Metropolis,Hek,60005686
-850,Tritanium,https://evemarketer.com/types/34,125,49518038,http://eve-gatecheck.space/eve/#Irmalin:Stacmon:shortest,726305,72630410,1,0.01,4,5,Khanid,Irmalin,60013945,Placid,Stacmon,60011893
+850,Tritanium,https://evemarketer.com/types/34,125,49517182,http://eve-gatecheck.space/eve/#Irmalin:Stacmon:shortest,726292,72629182,1,0.01,4,5,Khanid,Irmalin,60013945,Placid,Stacmon,60011893
 851,Phantasm,https://evemarketer.com/types/17718,116,49353849,http://eve-gatecheck.space/eve/#Ziriert:Botane:shortest,40000,4,12338463,10000.0,78000000,90338463,Domain,Ziriert,60006661,Sinq Laison,Botane,1025824394754
 852,Caracal,https://evemarketer.com/types/621,127,49323684,http://eve-gatecheck.space/eve/#Misaba:Perimeter:shortest,370000,37,1333073,10000.0,4999999,6333072,Domain,Misaba,60006658,The Forge,Perimeter,1028858195912
 853,Plasmoids,https://evemarketer.com/types/2389,111,49262712,http://eve-gatecheck.space/eve/#Konora:Jita:shortest,382627,1006912,49,0.38,450,499,Metropolis,Konora,60001039,The Forge,Jita,60003760
@@ -1017,7 +1017,7 @@
 1015,Strontium Clathrates,https://evemarketer.com/types/16275,136,42162002,http://eve-gatecheck.space/eve/#Saranen:Hek:shortest,324879,108293,390,3.0,1100,1490,Lonetrek,Saranen,60009898,Metropolis,Hek,60005686
 1016,Pyerite,https://evemarketer.com/types/35,134,42147248,http://eve-gatecheck.space/eve/#Egbinger:Danera:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,Khanid,Danera,60013954
 1017,Enriched Uranium,https://evemarketer.com/types/44,131,42112250,http://eve-gatecheck.space/eve/#Podion:Amarr:shortest,20820,13880,3035,1.5,10000,13034,Derelik,Podion,60013867,Domain,Amarr,60008494
-1018,Pyerite,https://evemarketer.com/types/35,134,42085122,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
+1018,Pyerite,https://evemarketer.com/types/35,134,42085095,http://eve-gatecheck.space/eve/#Odebeinn:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Metropolis,Odebeinn,60001030,Placid,Stacmon,60011893
 1019,Strontium Clathrates,https://evemarketer.com/types/16275,178,42000000,http://eve-gatecheck.space/eve/#Uzistoon:Bika:shortest,180000,60000,700,3.0,900,1600,Derelik,Uzistoon,60014095,Domain,Bika,60008932
 1020,Liquid Ozone,https://evemarketer.com/types/16273,149,41981796,http://eve-gatecheck.space/eve/#Alperaute:Jita:shortest,417210,1043023,41,0.4,85,126,Placid,Alperaute,60009328,The Forge,Jita,60003760
 1021,Liquid Ozone,https://evemarketer.com/types/16273,111,41956270,http://eve-gatecheck.space/eve/#Podion:Perimeter:shortest,1639235,4098086,11,0.4,110,121,Derelik,Podion,60013867,The Forge,Perimeter,1029385372500
@@ -1039,8 +1039,8 @@
 1037,Strontium Clathrates,https://evemarketer.com/types/16275,136,41315218,http://eve-gatecheck.space/eve/#Iitanmadan:Hek:shortest,354267,118089,350,3.0,990,1340,Lonetrek,Iitanmadan,60001732,Metropolis,Hek,1027437340950
 1038,Strontium Clathrates,https://evemarketer.com/types/16275,159,41302289,http://eve-gatecheck.space/eve/#Odebeinn:Botane:shortest,189000,63000,656,3.0,1126,1782,Metropolis,Odebeinn,60001030,Sinq Laison,Botane,1025824394754
 1039,Liquid Ozone,https://evemarketer.com/types/16273,139,41228568,http://eve-gatecheck.space/eve/#Villasen:Botane:shortest,446165,1115412,37,0.4,95,132,Black Rise,Villasen,60015108,Sinq Laison,Botane,1025824394754
-1040,Pyerite,https://evemarketer.com/types/35,134,41224592,http://eve-gatecheck.space/eve/#Egbinger:Adacyne:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Adacyne,60011728
-1041,Pyerite,https://evemarketer.com/types/35,134,41224592,http://eve-gatecheck.space/eve/#Egbinger:Sankkasen:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,The Citadel,Sankkasen,60004165
+1040,Pyerite,https://evemarketer.com/types/35,134,41224592,http://eve-gatecheck.space/eve/#Egbinger:Sankkasen:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,The Citadel,Sankkasen,60004165
+1041,Pyerite,https://evemarketer.com/types/35,134,41224592,http://eve-gatecheck.space/eve/#Egbinger:Adacyne:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,Placid,Adacyne,60011728
 1042,Strontium Clathrates,https://evemarketer.com/types/16275,158,41201928,http://eve-gatecheck.space/eve/#Villasen:Botane:shortest,189000,63000,654,3.0,1128,1782,Black Rise,Villasen,60015108,Sinq Laison,Botane,1025824394754
 1043,Pyerite,https://evemarketer.com/types/35,134,41123559,http://eve-gatecheck.space/eve/#Odebeinn:Aikoro:shortest,506803,50680223,1,0.01,3,4,Metropolis,Odebeinn,60001030,The Citadel,Aikoro,60001762
 1044,Coolant,https://evemarketer.com/types/9832,113,41113560,http://eve-gatecheck.space/eve/#Daras:Jita:shortest,47154,31436,1308,1.5,10600,11908,Lonetrek,Daras,60003991,The Forge,Jita,60003760
@@ -1161,12 +1161,12 @@
 1159,Tritanium,https://evemarketer.com/types/34,125,37573461,http://eve-gatecheck.space/eve/#Villasen:Aikoro:shortest,1431682,143168195,1,0.01,4,5,Black Rise,Villasen,60015108,The Citadel,Aikoro,60001762
 1160,Liquid Ozone,https://evemarketer.com/types/16273,160,37561501,http://eve-gatecheck.space/eve/#Villasen:Oppold:shortest,389045,972611,39,0.4,65,104,Black Rise,Villasen,60015108,Metropolis,Oppold,1022658000321
 1161,Pyerite,https://evemarketer.com/types/35,134,37544936,http://eve-gatecheck.space/eve/#Egbinger:Ardene:shortest,463198,46319766,1,0.01,3,4,Molden Heath,Egbinger,60000085,Sinq Laison,Ardene,60014743
-1162,Tritanium,https://evemarketer.com/types/34,125,37531239,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,726305,72630410,1,0.01,4,5,Derelik,Podion,60013867,Placid,Stacmon,60011893
+1162,Tritanium,https://evemarketer.com/types/34,125,37530586,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,726292,72629182,1,0.01,4,5,Derelik,Podion,60013867,Placid,Stacmon,60011893
 1163,Liquid Ozone,https://evemarketer.com/types/16273,160,37520953,http://eve-gatecheck.space/eve/#Assah:Oppold:shortest,389045,972611,39,0.4,65,104,Derelik,Assah,60006490,Metropolis,Oppold,1022658000321
 1164,Tritanium,https://evemarketer.com/types/34,125,37512529,http://eve-gatecheck.space/eve/#Egbinger:Ashab:shortest,1410069,141006837,1,0.01,4,5,Molden Heath,Egbinger,60000085,Domain,Ashab,1023968078820
 1165,Strontium Clathrates,https://evemarketer.com/types/16275,138,37467339,http://eve-gatecheck.space/eve/#Iitanmadan:Nakugard:shortest,299547,99849,376,3.0,990,1366,Lonetrek,Iitanmadan,60001732,Metropolis,Nakugard,60004549
 1166,Capital Computer System,https://evemarketer.com/types/21035,132,37443885,http://eve-gatecheck.space/eve/#Oulley:Jita:shortest,240000,24,1560162,10000.0,5000000,6560162,Placid,Oulley,60011839,The Forge,Jita,60003760
-1167,Pyerite,https://evemarketer.com/types/35,134,37394987,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Derelik,Podion,60013867,Placid,Stacmon,60011893
+1167,Pyerite,https://evemarketer.com/types/35,134,37394963,http://eve-gatecheck.space/eve/#Podion:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Derelik,Podion,60013867,Placid,Stacmon,60011893
 1168,Strontium Clathrates,https://evemarketer.com/types/16275,132,37260621,http://eve-gatecheck.space/eve/#Iitanmadan:Perimeter:shortest,354267,118089,316,3.0,990,1306,Lonetrek,Iitanmadan,60001732,The Forge,Perimeter,1028858195912
 1169,Tritanium,https://evemarketer.com/types/34,125,37242642,http://eve-gatecheck.space/eve/#Podion:Arlulf:shortest,1368819,136881809,1,0.01,4,5,Derelik,Podion,60013867,Metropolis,Arlulf,60004924
 1170,Liquid Ozone,https://evemarketer.com/types/16273,135,37165297,http://eve-gatecheck.space/eve/#Konora:Botane:shortest,446165,1115412,34,0.4,98,132,Metropolis,Konora,60001039,Sinq Laison,Botane,1025824394754
@@ -1178,7 +1178,7 @@
 1176,Pyerite,https://evemarketer.com/types/35,134,37028478,http://eve-gatecheck.space/eve/#Odebeinn:Nahyeen:shortest,486301,48630047,1,0.01,3,4,Metropolis,Odebeinn,60001030,Kor-Azor,Nahyeen,60008209
 1177,Tritanium,https://evemarketer.com/types/34,125,37009969,http://eve-gatecheck.space/eve/#Podion:Kamio:shortest,326761,32676076,2,0.01,4,5,Derelik,Podion,60013867,The Citadel,Kamio,1025026043977
 1178,Pyerite,https://evemarketer.com/types/35,150,36932000,http://eve-gatecheck.space/eve/#Villasen:Lustrevik:shortest,388758,38875789,1,0.01,2,3,Black Rise,Villasen,60015108,Heimatar,Lustrevik,60004759
-1179,Pyerite,https://evemarketer.com/types/35,134,36925375,http://eve-gatecheck.space/eve/#Faspera:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Derelik,Faspera,60012163,Placid,Stacmon,60011893
+1179,Pyerite,https://evemarketer.com/types/35,134,36925352,http://eve-gatecheck.space/eve/#Faspera:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Derelik,Faspera,60012163,Placid,Stacmon,60011893
 1180,Pyerite,https://evemarketer.com/types/35,134,36921190,http://eve-gatecheck.space/eve/#Konora:Nahyeen:shortest,486301,48630047,1,0.01,3,4,Metropolis,Konora,60001039,Kor-Azor,Nahyeen,60008209
 1181,Strontium Clathrates,https://evemarketer.com/types/16275,138,36865627,http://eve-gatecheck.space/eve/#Saranen:Dodixie:shortest,268842,89614,412,3.0,1100,1512,Lonetrek,Saranen,60009898,Sinq Laison,Dodixie,60011866
 1182,Punisher,https://evemarketer.com/types/597,216,36799000,http://eve-gatecheck.space/eve/#Sheroo:Nennamaila:shortest,245000,98,375500,2500.0,324500,700000,Genesis,Sheroo,60006631,Black Rise,Nennamaila,60015126
@@ -1270,7 +1270,7 @@
 1268,Compressed Pristine White Glaze,https://evemarketer.com/types/28441,113,34106164,http://eve-gatecheck.space/eve/#Villasen:Jita:shortest,108000,1080,31580,100.0,250000,281580,Black Rise,Villasen,60015108,The Forge,Jita,60003760
 1269,Pyerite,https://evemarketer.com/types/35,134,34076658,http://eve-gatecheck.space/eve/#Egbinger:Nahyeen:shortest,486301,48630047,1,0.01,3,4,Molden Heath,Egbinger,60000085,Kor-Azor,Nahyeen,60008209
 1270,Phantasm,https://evemarketer.com/types/17718,122,33999999,http://eve-gatecheck.space/eve/#Ziriert:Yona:shortest,20000,2,17000000,10000.0,78000000,95000000,Domain,Ziriert,60006661,Essence,Yona,60005227
-1271,Pyerite,https://evemarketer.com/types/35,134,33995117,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,1069721,106972085,1,0.01,3,4,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
+1271,Pyerite,https://evemarketer.com/types/35,134,33995096,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,1069721,106972019,1,0.01,3,4,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
 1272,Strontium Clathrates,https://evemarketer.com/types/16275,173,33950743,http://eve-gatecheck.space/eve/#Daras:Heorah:shortest,107214,35738,950,3.0,1301,2250,Lonetrek,Daras,60003991,Genesis,Heorah,60001063
 1273,Pyerite,https://evemarketer.com/types/35,134,33944057,http://eve-gatecheck.space/eve/#Skarkon:Kakakela:shortest,376061,37606084,1,0.01,3,4,Molden Heath,Skarkon,60004651,Lonetrek,Kakakela,1028946667541
 1274,Phantasm,https://evemarketer.com/types/17718,111,33920003,http://eve-gatecheck.space/eve/#Ziriert:Jita:shortest,40000,4,8480001,10000.0,78000000,86480001,Domain,Ziriert,60006661,The Forge,Jita,60003760
@@ -1291,7 +1291,7 @@
 1289,Liquid Ozone,https://evemarketer.com/types/16273,139,33408233,http://eve-gatecheck.space/eve/#Alperaute:Seil:shortest,417210,1043023,33,0.4,85,118,Placid,Alperaute,60009328,Tash-Murkon,Seil,1021555189321
 1290,Liquid Ozone,https://evemarketer.com/types/16273,139,33387167,http://eve-gatecheck.space/eve/#Alperaute:Alra:shortest,417210,1043023,33,0.4,85,118,Placid,Alperaute,60009328,Tash-Murkon,Alra,1022436757022
 1291,Capital Capacitor Battery,https://evemarketer.com/types/21019,134,33348572,http://eve-gatecheck.space/eve/#Egbinger:Jita:shortest,260000,26,1282638,10000.0,3800000,5082637,Molden Heath,Egbinger,60000085,The Forge,Jita,60003760
-1292,Tritanium,https://evemarketer.com/types/34,125,33303090,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,726305,72630410,1,0.01,4,5,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
+1292,Tritanium,https://evemarketer.com/types/34,125,33302508,http://eve-gatecheck.space/eve/#Villasen:Stacmon:shortest,726292,72629182,1,0.01,4,5,Black Rise,Villasen,60015108,Placid,Stacmon,60011893
 1293,Strontium Clathrates,https://evemarketer.com/types/16275,120,33204321,http://eve-gatecheck.space/eve/#Jita:Odixie:shortest,299928,99976,333,3.0,1668,2001,The Forge,Jita,60003760,Everyshore,Odixie,60011656
 1294,Liquid Ozone,https://evemarketer.com/types/16273,121,33197468,http://eve-gatecheck.space/eve/#Konora:Alra:shortest,698527,1746316,20,0.4,98,118,Metropolis,Konora,60001039,Tash-Murkon,Alra,1022436757022
 1295,Strontium Clathrates,https://evemarketer.com/types/16275,201,33180344,http://eve-gatecheck.space/eve/#Podion:Odixie:shortest,99453,33151,1001,3.0,1000,2001,Derelik,Podion,60013867,Everyshore,Odixie,60011656
@@ -1310,5 +1310,5 @@
 1308,Enriched Uranium,https://evemarketer.com/types/44,124,32798196,http://eve-gatecheck.space/eve/#Podion:Rens:shortest,20820,13880,2363,1.5,10000,12363,Derelik,Podion,60013867,Heimatar,Rens,60004588
 1309,Tritanium,https://evemarketer.com/types/34,125,32781933,http://eve-gatecheck.space/eve/#Irmalin:Embod:shortest,659441,65944082,1,0.01,4,5,Khanid,Irmalin,60013945,Metropolis,Embod,60015046
 1310,Pyerite,https://evemarketer.com/types/35,150,32757449,http://eve-gatecheck.space/eve/#Villasen:Shuria:shortest,442669,44266822,1,0.01,2,3,Black Rise,Villasen,60015108,Domain,Shuria,60008137
-1311,Tritanium,https://evemarketer.com/types/34,125,32734333,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,726305,72630410,1,0.01,4,5,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
+1311,Tritanium,https://evemarketer.com/types/34,125,32733761,http://eve-gatecheck.space/eve/#Egbinger:Stacmon:shortest,726292,72629182,1,0.01,4,5,Molden Heath,Egbinger,60000085,Placid,Stacmon,60011893
 1312,Luminous Kernite,https://evemarketer.com/types/17452,152,32693361,http://eve-gatecheck.space/eve/#Mishi:Kor-Azor Prime:shortest,877282,731068,45,1.2,88,133,Aridia,Mishi,60012397,Kor-Azor,Kor-Azor Prime,60007246
