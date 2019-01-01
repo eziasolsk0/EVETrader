@@ -956,8 +956,8 @@
 954,Tritanium,https://evemarketer.com/types/34,125,37195591,http://eve-gatecheck.space/eve/#Horkkisen:Stacmon:shortest,514781,51478070,1,0.01,4,5,The Citadel,Horkkisen,60002302,Placid,Stacmon,60011893
 955,Capital Computer System,https://evemarketer.com/types/21035,131,37170682,http://eve-gatecheck.space/eve/#Oulley:Jita:shortest,240000,24,1548779,10000.0,5000000,6548779,Placid,Oulley,60011839,The Forge,Jita,60003760
 956,Strontium Clathrates,https://evemarketer.com/types/16275,173,37082340,http://eve-gatecheck.space/eve/#Konora:Auvergne:shortest,145125,48375,767,3.0,1055,1822,Metropolis,Konora,60001039,Sinq Laison,Auvergne,60011983
-957,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
-958,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
+957,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Tash-Murkon Prime:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Tash-Murkon,Tash-Murkon Prime,60008764
+958,Luminous Kernite,https://evemarketer.com/types/17452,132,37041676,http://eve-gatecheck.space/eve/#Mishi:Romi:shortest,1587501,1322917,28,1.2,88,116,Aridia,Mishi,60012397,Kador,Romi,60005938
 959,Pyerite,https://evemarketer.com/types/35,134,37034574,http://eve-gatecheck.space/eve/#Konora:Warouh:shortest,294074,29407382,2,0.01,3,4,Metropolis,Konora,60001039,Domain,Warouh,60010141
 960,Pyerite,https://evemarketer.com/types/35,134,36999403,http://eve-gatecheck.space/eve/#Odebeinn:Warouh:shortest,294074,29407382,2,0.01,3,4,Metropolis,Odebeinn,60001030,Domain,Warouh,60010141
 961,Heavy Water,https://evemarketer.com/types/16272,111,36852165,http://eve-gatecheck.space/eve/#Egbinger:Botane:shortest,375745,939361,40,0.4,379,419,Molden Heath,Egbinger,60000085,Sinq Laison,Botane,1025824394754
@@ -1912,8 +1912,8 @@
 1910,Pyerite,https://evemarketer.com/types/35,150,17916283,http://eve-gatecheck.space/eve/#Egbinger:Suroken:shortest,199070,19906981,1,0.01,2,3,Molden Heath,Egbinger,60000085,The Citadel,Suroken,60003793
 1911,Pyerite,https://evemarketer.com/types/35,150,17916283,http://eve-gatecheck.space/eve/#Konora:Suroken:shortest,199070,19906981,1,0.01,2,3,Metropolis,Konora,60001039,The Citadel,Suroken,60003793
 1912,Tritanium,https://evemarketer.com/types/34,125,17911942,http://eve-gatecheck.space/eve/#Gehi:Aphend:shortest,293639,29363838,1,0.01,4,5,Khanid,Gehi,60013990,Kador,Aphend,60008506
-1913,Heavy Water,https://evemarketer.com/types/16272,151,17895584,http://eve-gatecheck.space/eve/#Podion:Dresi:shortest,70874,177184,101,0.4,199,300,Derelik,Podion,60013867,Kador,Dresi,60005092
-1914,Heavy Water,https://evemarketer.com/types/16272,151,17895584,http://eve-gatecheck.space/eve/#Podion:Hakonen:shortest,70874,177184,101,0.4,199,300,Derelik,Podion,60013867,Lonetrek,Hakonen,60000820
+1913,Heavy Water,https://evemarketer.com/types/16272,151,17895584,http://eve-gatecheck.space/eve/#Podion:Hakonen:shortest,70874,177184,101,0.4,199,300,Derelik,Podion,60013867,Lonetrek,Hakonen,60000820
+1914,Heavy Water,https://evemarketer.com/types/16272,151,17895584,http://eve-gatecheck.space/eve/#Podion:Dresi:shortest,70874,177184,101,0.4,199,300,Derelik,Podion,60013867,Kador,Dresi,60005092
 1915,Liquid Ozone,https://evemarketer.com/types/16273,162,17879448,http://eve-gatecheck.space/eve/#Nalvula:Warouh:shortest,155446,388613,47,0.4,77,124,Lonetrek,Nalvula,60004477,Domain,Warouh,60007387
 1916,Pyerite,https://evemarketer.com/types/35,150,17875264,http://eve-gatecheck.space/eve/#Egbinger:Embod:shortest,357506,35750528,1,0.01,2,3,Molden Heath,Egbinger,60000085,Metropolis,Embod,60015046
 1917,Pyerite,https://evemarketer.com/types/35,150,17875264,http://eve-gatecheck.space/eve/#Konora:Embod:shortest,357506,35750528,1,0.01,2,3,Metropolis,Konora,60001039,Metropolis,Embod,60015046
@@ -2710,8 +2710,8 @@
 2708,Spirits,https://evemarketer.com/types/9850,127,11566353,http://eve-gatecheck.space/eve/#Vlillirier:Uphallant:shortest,21150,105747,110,0.2,417,526,Placid,Vlillirier,60001393,Placid,Uphallant,60006877
 2709,Strontium Clathrates,https://evemarketer.com/types/16275,163,11552467,http://eve-gatecheck.space/eve/#Anin:Botane:shortest,50457,16819,687,3.0,1100,1786,Lonetrek,Anin,60003961,Sinq Laison,Botane,1025824394754
 2710,Strontium Clathrates,https://evemarketer.com/types/16275,163,11548861,http://eve-gatecheck.space/eve/#Anin:Dodixie:shortest,50457,16819,687,3.0,1100,1786,Lonetrek,Anin,60003961,Sinq Laison,Dodixie,60011866
-2711,Heavy Water,https://evemarketer.com/types/16272,137,11537897,http://eve-gatecheck.space/eve/#Podion:Dresi:shortest,57436,143590,81,0.4,220,300,Derelik,Podion,60013867,Kador,Dresi,60005092
-2712,Heavy Water,https://evemarketer.com/types/16272,137,11537897,http://eve-gatecheck.space/eve/#Podion:Hakonen:shortest,57436,143590,81,0.4,220,300,Derelik,Podion,60013867,Lonetrek,Hakonen,60000820
+2711,Heavy Water,https://evemarketer.com/types/16272,137,11537897,http://eve-gatecheck.space/eve/#Podion:Hakonen:shortest,57436,143590,81,0.4,220,300,Derelik,Podion,60013867,Lonetrek,Hakonen,60000820
+2712,Heavy Water,https://evemarketer.com/types/16272,137,11537897,http://eve-gatecheck.space/eve/#Podion:Dresi:shortest,57436,143590,81,0.4,220,300,Derelik,Podion,60013867,Kador,Dresi,60005092
 2713,Luminous Kernite,https://evemarketer.com/types/17452,128,11525000,http://eve-gatecheck.space/eve/#Mishi:Oipo:shortest,600000,500000,24,1.2,88,112,Aridia,Mishi,60012397,Lonetrek,Oipo,60002320
 2714,Pyerite,https://evemarketer.com/types/35,134,11516954,http://eve-gatecheck.space/eve/#Villasen:Sobaseki:shortest,547349,54734833,1,0.01,3,4,Black Rise,Villasen,60015108,Lonetrek,Sobaseki,1025012761433
 2715,Pyerite,https://evemarketer.com/types/35,200,11510064,http://eve-gatecheck.space/eve/#Klingt:Adacyne:shortest,101859,10185897,2,0.01,2,4,Molden Heath,Klingt,60004885,Placid,Adacyne,60011728
