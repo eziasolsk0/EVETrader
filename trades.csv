@@ -982,7 +982,7 @@
 980,Tritanium,https://evemarketer.com/types/34,125,35494504,http://eve-gatecheck.space/eve/#Villasen:Ebo:shortest,1431682,143168195,1,0.01,4,5,Black Rise,Villasen,60015108,Domain,Ebo,60006259
 981,Liquid Ozone,https://evemarketer.com/types/16273,170,35477930,http://eve-gatecheck.space/eve/#Villasen:Ashab:shortest,252000,630000,57,0.4,82,139,Black Rise,Villasen,60015108,Domain,Ashab,1023968078820
 982,Strontium Clathrates,https://evemarketer.com/types/16275,153,35452619,http://eve-gatecheck.space/eve/#Villasen:Rens:shortest,202809,67603,525,3.0,995,1520,Black Rise,Villasen,60015108,Heimatar,Rens,60004588
-983,Pyerite,https://evemarketer.com/types/35,150,35424441,http://eve-gatecheck.space/eve/#Egbinger:Lirsautton:shortest,492007,49200612,1,0.01,2,3,Molden Heath,Egbinger,60000085,Everyshore,Lirsautton,60009850
+983,Pyerite,https://evemarketer.com/types/35,150,35424344,http://eve-gatecheck.space/eve/#Egbinger:Lirsautton:shortest,492005,49200477,1,0.01,2,3,Molden Heath,Egbinger,60000085,Everyshore,Lirsautton,60009850
 984,Strontium Clathrates,https://evemarketer.com/types/16275,170,35348274,http://eve-gatecheck.space/eve/#Konora:Dodixie:shortest,145125,48375,731,3.0,1055,1786,Metropolis,Konora,60001039,Sinq Laison,Dodixie,60011866
 985,Mexallon,https://evemarketer.com/types/36,113,35323715,http://eve-gatecheck.space/eve/#Dastryns:Daras:shortest,66398,6639796,6,0.01,50,56,Placid,Dastryns,60011707,Lonetrek,Daras,60003991
 986,Pyerite,https://evemarketer.com/types/35,134,35304466,http://eve-gatecheck.space/eve/#Egbinger:Warouh:shortest,294074,29407382,2,0.01,3,4,Molden Heath,Egbinger,60000085,Domain,Warouh,60010141
@@ -1314,8 +1314,8 @@
 1312,Spiced Wine,https://evemarketer.com/types/42,116,26444833,http://eve-gatecheck.space/eve/#Orvolle:Evaulon:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Placid,Evaulon,60011356
 1313,Spiced Wine,https://evemarketer.com/types/42,116,26440124,http://eve-gatecheck.space/eve/#Orvolle:Esesier:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Placid,Esesier,60011353
 1314,Spiced Wine,https://evemarketer.com/types/42,116,26435414,http://eve-gatecheck.space/eve/#Orvolle:Oursulaert:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Essence,Oursulaert,60011314
-1315,Spiced Wine,https://evemarketer.com/types/42,116,26428351,http://eve-gatecheck.space/eve/#Orvolle:Antollare:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Everyshore,Antollare,60011320
-1316,Spiced Wine,https://evemarketer.com/types/42,116,26428351,http://eve-gatecheck.space/eve/#Orvolle:Aydoteaux:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Everyshore,Aydoteaux,60011317
+1315,Spiced Wine,https://evemarketer.com/types/42,116,26430705,http://eve-gatecheck.space/eve/#Orvolle:Antollare:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Everyshore,Antollare,60011320
+1316,Spiced Wine,https://evemarketer.com/types/42,116,26430705,http://eve-gatecheck.space/eve/#Orvolle:Aydoteaux:shortest,58866,117731,225,0.5,1484,1709,Placid,Orvolle,60009424,Everyshore,Aydoteaux,60011317
 1317,Oxygen,https://evemarketer.com/types/3683,129,26426598,http://eve-gatecheck.space/eve/#Jan:Perimeter:shortest,144173,379402,70,0.38,249,319,Lonetrek,Jan,60012334,The Forge,Perimeter,1029479440400
 1318,Gnosis,https://evemarketer.com/types/3756,144,26390280,http://eve-gatecheck.space/eve/#Irmalin:Ashab:shortest,45000,3,8796760,15000.0,19999999,28796759,Khanid,Irmalin,60013945,Domain,Ashab,1023968078820
 1319,Tritanium,https://evemarketer.com/types/34,125,26366428,http://eve-gatecheck.space/eve/#Assah:Loguttur:shortest,356304,35630308,1,0.01,4,5,Derelik,Assah,60006490,Heimatar,Loguttur,60015040
@@ -2260,9 +2260,9 @@
 2258,Tritanium,https://evemarketer.com/types/34,125,14171035,http://eve-gatecheck.space/eve/#Nidupad:Kausaaja:shortest,172818,17281750,1,0.01,4,5,Kador,Nidupad,60010645,The Citadel,Kausaaja,60001756
 2259,Tritanium,https://evemarketer.com/types/34,125,14120128,http://eve-gatecheck.space/eve/#Horkkisen:Kamio:shortest,235668,23566789,1,0.01,4,5,The Citadel,Horkkisen,60002302,The Citadel,Kamio,1025026043977
 2260,Tritanium,https://evemarketer.com/types/34,134,14117129,http://eve-gatecheck.space/eve/#Gedugaud:Amarr:shortest,221691,22169087,1,0.01,3,4,Metropolis,Gedugaud,60006562,Domain,Amarr,60008494
-2261,Tritanium,https://evemarketer.com/types/34,167,14107870,http://eve-gatecheck.space/eve/#Gedugaud:Harerget:shortest,121611,12161015,2,0.01,3,5,Metropolis,Gedugaud,60006562,Everyshore,Harerget,60010252
-2262,Tritanium,https://evemarketer.com/types/34,125,14082558,http://eve-gatecheck.space/eve/#Saminer:Trosquesere:shortest,704128,70412790,1,0.01,4,5,Tash-Murkon,Saminer,60009070,Sinq Laison,Trosquesere,60010894
-2263,Tritanium,https://evemarketer.com/types/34,125,14082558,http://eve-gatecheck.space/eve/#Saminer:Grinacanne:shortest,704128,70412790,1,0.01,4,5,Tash-Murkon,Saminer,60009070,Sinq Laison,Grinacanne,60011923
+2261,Tritanium,https://evemarketer.com/types/34,125,14082558,http://eve-gatecheck.space/eve/#Saminer:Trosquesere:shortest,704128,70412790,1,0.01,4,5,Tash-Murkon,Saminer,60009070,Sinq Laison,Trosquesere,60010894
+2262,Tritanium,https://evemarketer.com/types/34,125,14082558,http://eve-gatecheck.space/eve/#Saminer:Grinacanne:shortest,704128,70412790,1,0.01,4,5,Tash-Murkon,Saminer,60009070,Sinq Laison,Grinacanne,60011923
+2263,Tritanium,https://evemarketer.com/types/34,167,14079709,http://eve-gatecheck.space/eve/#Gedugaud:Harerget:shortest,121369,12136812,2,0.01,3,5,Metropolis,Gedugaud,60006562,Everyshore,Harerget,60010252
 2264,Ionic Solutions,https://evemarketer.com/types/2309,150,14038289,http://eve-gatecheck.space/eve/#Misaba:Perimeter:shortest,239045,23904410,1,0.01,2,3,Domain,Misaba,60006658,The Forge,Perimeter,1028858195912
 2265,Oxygen,https://evemarketer.com/types/3683,111,14036178,http://eve-gatecheck.space/eve/#Podion:Jita:shortest,172790,454709,31,0.38,285,316,Derelik,Podion,60013867,The Forge,Jita,60003760
 2266,Heavy Water,https://evemarketer.com/types/16272,152,14030711,http://eve-gatecheck.space/eve/#Keri:Getrenjesa:shortest,36680,91698,154,0.4,297,451,Genesis,Keri,60007102,Aridia,Getrenjesa,60001126
