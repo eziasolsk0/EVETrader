@@ -1360,11 +1360,11 @@
 1358,Tritanium,https://evemarketer.com/types/34,125,24866219,http://eve-gatecheck.space/eve/#Ienakkamon:Amarr:shortest,565149,56514820,1,0.01,4,5,Black Rise,Ienakkamon,60015110,Domain,Amarr,60008494
 1359,Scythe,https://evemarketer.com/types/631,111,24812257,http://eve-gatecheck.space/eve/#Misaba:Perimeter:shortest,620000,62,400198,10000.0,3999999,4400197,Domain,Misaba,60006658,The Forge,Perimeter,1028858195912
 1360,Spiced Wine,https://evemarketer.com/types/42,115,24784074,http://eve-gatecheck.space/eve/#Maut:Algogille:shortest,58926,117851,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Algogille,60011311
-1361,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Agaullores:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Solitude,Agaullores,60011341
-1362,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Fliet:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Fliet,60011335
-1363,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Palmon:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Palmon,60011362
-1364,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Amasiree:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Placid,Amasiree,60011323
-1365,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Ruerrotta:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Placid,Ruerrotta,60011326
+1361,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Fliet:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Fliet,60011335
+1362,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Palmon:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Palmon,60011362
+1363,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Amasiree:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Placid,Amasiree,60011323
+1364,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Ruerrotta:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Placid,Ruerrotta,60011326
+1365,Spiced Wine,https://evemarketer.com/types/42,115,24768248,http://eve-gatecheck.space/eve/#Maut:Agaullores:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Solitude,Agaullores,60011341
 1366,Spiced Wine,https://evemarketer.com/types/42,115,24767071,http://eve-gatecheck.space/eve/#Maut:Actee:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Actee,60011338
 1367,Spiced Wine,https://evemarketer.com/types/42,115,24767071,http://eve-gatecheck.space/eve/#Maut:Hulmate:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Essence,Hulmate,60011359
 1368,Spiced Wine,https://evemarketer.com/types/42,115,24763539,http://eve-gatecheck.space/eve/#Maut:Evaulon:shortest,58866,117731,211,0.5,1499,1709,Placid,Maut,60009427,Placid,Evaulon,60011356
@@ -2565,8 +2565,8 @@
 2563,Strontium Clathrates,https://evemarketer.com/types/16275,147,12020323,http://eve-gatecheck.space/eve/#Iitanmadan:Akes:shortest,78390,26130,461,3.0,990,1451,Lonetrek,Iitanmadan,60001732,Devoid,Akes,60003637
 2564,Capital Power Generator,https://evemarketer.com/types/21021,125,12020227,http://eve-gatecheck.space/eve/#Aurohunen:Perimeter:shortest,100000,10,1202023,10000.0,5000000,6202023,Lonetrek,Aurohunen,60003445,The Forge,Perimeter,1028858195912
 2565,Naga,https://evemarketer.com/types/4306,141,12015095,http://eve-gatecheck.space/eve/#Uzistoon:Dodixie:shortest,15000,1,12015095,15000.0,30000000,42015095,Derelik,Uzistoon,60014095,Sinq Laison,Dodixie,60011866
-2566,Ferox,https://evemarketer.com/types/16227,131,12012000,http://eve-gatecheck.space/eve/#Podion:Boystin:shortest,30000,2,6006000,15000.0,20000000,26006000,Derelik,Podion,60013867,Solitude,Boystin,1021628175407
-2567,Chiral Structures,https://evemarketer.com/types/2401,197,12012000,http://eve-gatecheck.space/eve/#Villasen:Tunttaras:shortest,11856,31200,385,0.38,400,785,Black Rise,Villasen,60015108,Lonetrek,Tunttaras,60003826
+2566,Chiral Structures,https://evemarketer.com/types/2401,197,12012000,http://eve-gatecheck.space/eve/#Villasen:Tunttaras:shortest,11856,31200,385,0.38,400,785,Black Rise,Villasen,60015108,Lonetrek,Tunttaras,60003826
+2567,Ferox,https://evemarketer.com/types/16227,131,12012000,http://eve-gatecheck.space/eve/#Podion:Boystin:shortest,30000,2,6006000,15000.0,20000000,26006000,Derelik,Podion,60013867,Solitude,Boystin,1021628175407
 2568,Liquid Ozone,https://evemarketer.com/types/16273,184,12005881,http://eve-gatecheck.space/eve/#Nalvula:Hek:shortest,75473,188681,64,0.4,77,141,Lonetrek,Nalvula,60004477,Metropolis,Hek,60005686
 2569,Templar I,https://evemarketer.com/types/23055,122,12005599,http://eve-gatecheck.space/eve/#Konora:Jita:shortest,35000,35,343018,1000.0,1600000,1943018,Metropolis,Konora,60001039,The Forge,Jita,60003760
 2570,Porpoise,https://evemarketer.com/types/42244,118,12002000,http://eve-gatecheck.space/eve/#Egbinger:Agrallarier:shortest,100000,2,6001000,50000.0,35000000,41001000,Molden Heath,Egbinger,60000085,Sinq Laison,Agrallarier,60009676
