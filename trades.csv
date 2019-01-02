@@ -1559,9 +1559,9 @@
 1557,Tritanium,https://evemarketer.com/types/34,125,21772411,http://eve-gatecheck.space/eve/#Gehi:Frarn:shortest,205001,20500093,2,0.01,4,5,Khanid,Gehi,60013990,Heimatar,Frarn,1029053925600
 1558,Mexallon,https://evemarketer.com/types/36,115,21772025,http://eve-gatecheck.space/eve/#Nidupad:Grinacanne:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Sinq Laison,Grinacanne,60011923
 1559,Liquid Ozone,https://evemarketer.com/types/16273,169,21771574,http://eve-gatecheck.space/eve/#Daras:Seil:shortest,184768,461919,48,0.4,70,118,Lonetrek,Daras,60003991,Tash-Murkon,Seil,1021555189321
-1560,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Azer:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Everyshore,Azer,1021298932576
-1561,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Alkez:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Derelik,Alkez,60012157
-1562,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Thakala:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Devoid,Thakala,60002506
+1560,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Alkez:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Derelik,Alkez,60012157
+1561,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Thakala:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Devoid,Thakala,60002506
+1562,Mexallon,https://evemarketer.com/types/36,115,21739217,http://eve-gatecheck.space/eve/#Nidupad:Azer:shortest,43392,4339165,6,0.01,40,46,Kador,Nidupad,60010645,Everyshore,Azer,1021298932576
 1563,Tritanium,https://evemarketer.com/types/34,125,21734488,http://eve-gatecheck.space/eve/#Assah:Nein:shortest,356304,35630308,1,0.01,4,5,Derelik,Assah,60006490,Metropolis,Nein,1027614014114
 1564,Mexallon,https://evemarketer.com/types/36,113,21695825,http://eve-gatecheck.space/eve/#Nidupad:Ardene:shortest,43392,4339165,5,0.01,40,45,Kador,Nidupad,60010645,Sinq Laison,Ardene,60014743
 1565,Mexallon,https://evemarketer.com/types/36,113,21695825,http://eve-gatecheck.space/eve/#Nidupad:Muvolailen:shortest,43392,4339165,5,0.01,40,45,Kador,Nidupad,60010645,The Citadel,Muvolailen,60001438
@@ -3302,8 +3302,8 @@
 3300,Capital Corporate Hangar Bay,https://evemarketer.com/types/24560,136,8760001,http://eve-gatecheck.space/eve/#Misaba:Botane:shortest,50000,5,1752001,10000.0,5000000,6752001,Domain,Misaba,60006658,Sinq Laison,Botane,1025824394754
 3301,Capital Corporate Hangar Bay,https://evemarketer.com/types/24560,136,8760000,http://eve-gatecheck.space/eve/#Misaba:Dodixie:shortest,50000,5,1752000,10000.0,5000000,6752000,Domain,Misaba,60006658,Sinq Laison,Dodixie,60011866
 3302,Strontium Clathrates,https://evemarketer.com/types/16275,160,8758660,http://eve-gatecheck.space/eve/#Anin:Ashab:shortest,40347,13449,652,3.0,1100,1751,Lonetrek,Anin,60003961,Domain,Ashab,1023968078820
-3303,Holoreels,https://evemarketer.com/types/3647,135,8754555,http://eve-gatecheck.space/eve/#Kulu:Mannar:shortest,56481,112962,78,0.5,225,303,Kor-Azor,Kulu,60001909,Everyshore,Mannar,60003274
-3304,Holoreels,https://evemarketer.com/types/3647,135,8754555,http://eve-gatecheck.space/eve/#Kulu:Ratillose:shortest,56481,112962,78,0.5,225,303,Kor-Azor,Kulu,60001909,Solitude,Ratillose,60010630
+3303,Holoreels,https://evemarketer.com/types/3647,135,8754555,http://eve-gatecheck.space/eve/#Kulu:Ratillose:shortest,56481,112962,78,0.5,225,303,Kor-Azor,Kulu,60001909,Solitude,Ratillose,60010630
+3304,Holoreels,https://evemarketer.com/types/3647,135,8754555,http://eve-gatecheck.space/eve/#Kulu:Mannar:shortest,56481,112962,78,0.5,225,303,Kor-Azor,Kulu,60001909,Everyshore,Mannar,60003274
 3305,Holoreels,https://evemarketer.com/types/3647,135,8752296,http://eve-gatecheck.space/eve/#Kulu:Parchanier:shortest,56481,112962,78,0.5,225,303,Kor-Azor,Kulu,60001909,Sinq Laison,Parchanier,60010606
 3306,Liquid Ozone,https://evemarketer.com/types/16273,134,8751902,http://eve-gatecheck.space/eve/#Aunenen:Amarr:shortest,151541,378852,24,0.4,72,96,Lonetrek,Aunenen,60004009,Domain,Amarr,60008494
 3307,Tritanium,https://evemarketer.com/types/34,125,8750179,http://eve-gatecheck.space/eve/#Podion:Tasabeshi:shortest,122923,12292258,1,0.01,4,5,Derelik,Podion,60013867,The Citadel,Tasabeshi,60004090
@@ -3339,8 +3339,8 @@
 3337,Electronic Parts,https://evemarketer.com/types/3687,121,8691696,http://eve-gatecheck.space/eve/#Olin:Sirppala:shortest,58851,58851,148,1.0,705,853,Genesis,Olin,60011254,The Citadel,Sirppala,60001507
 3338,Electronic Parts,https://evemarketer.com/types/3687,121,8691108,http://eve-gatecheck.space/eve/#Antiainen:Sirppala:shortest,58851,58851,148,1.0,706,853,Lonetrek,Antiainen,60011149,The Citadel,Sirppala,60001507
 3339,Electronic Parts,https://evemarketer.com/types/3687,121,8691108,http://eve-gatecheck.space/eve/#Akila:Sirppala:shortest,58851,58851,148,1.0,706,853,Domain,Akila,60011191,The Citadel,Sirppala,60001507
-3340,Holoreels,https://evemarketer.com/types/3647,135,8687908,http://eve-gatecheck.space/eve/#Trer:Mannar:shortest,56481,112962,77,0.5,226,303,Heimatar,Trer,60001846,Everyshore,Mannar,60003274
-3341,Holoreels,https://evemarketer.com/types/3647,135,8687908,http://eve-gatecheck.space/eve/#Trer:Ratillose:shortest,56481,112962,77,0.5,226,303,Heimatar,Trer,60001846,Solitude,Ratillose,60010630
+3340,Holoreels,https://evemarketer.com/types/3647,135,8687908,http://eve-gatecheck.space/eve/#Trer:Ratillose:shortest,56481,112962,77,0.5,226,303,Heimatar,Trer,60001846,Solitude,Ratillose,60010630
+3341,Holoreels,https://evemarketer.com/types/3647,135,8687908,http://eve-gatecheck.space/eve/#Trer:Mannar:shortest,56481,112962,77,0.5,226,303,Heimatar,Trer,60001846,Everyshore,Mannar,60003274
 3342,Caracal,https://evemarketer.com/types/621,141,8686573,http://eve-gatecheck.space/eve/#Podion:Muvolailen:shortest,50000,5,1737315,10000.0,4264286,6001601,Derelik,Podion,60013867,The Citadel,Muvolailen,60002767
 3343,Holoreels,https://evemarketer.com/types/3647,135,8685649,http://eve-gatecheck.space/eve/#Trer:Parchanier:shortest,56481,112962,77,0.5,226,303,Heimatar,Trer,60001846,Sinq Laison,Parchanier,60010606
 3344,Electronic Parts,https://evemarketer.com/types/3687,121,8681692,http://eve-gatecheck.space/eve/#Sahda:Sirppala:shortest,58851,58851,148,1.0,706,853,Domain,Sahda,60011197,The Citadel,Sirppala,60001507
